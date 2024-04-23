@@ -42,5 +42,5 @@ Es ist ein Experiment!
 * Katja Ungelenke
 * Sabine Hodler
 * Marlis Leue
-* Ainara
+* Merle
 * Juan Pablo

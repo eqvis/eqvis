@@ -34,7 +34,7 @@ Beispiele
 
 - Kino/Roman
 - Die Vase in der Tanzetage
-- Ainara als Spiegel (Wutanfall + Empathie)
+- Merle als Spiegel (Wutanfall + Empathie)
 
 Anderes
 

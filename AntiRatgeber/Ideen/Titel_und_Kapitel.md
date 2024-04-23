@@ -31,10 +31,10 @@ Nonverbale Kommunikation.
 ### Kritisieren, Scham und Fehlertoleranz
 
 ### Zu viel Theorie
-Ainara: zu viel Theorie, keine Möglichkeit dies umzusetzen => Frust und Enttäuschung, "Hilfe" wird abgelehnt
+Merle: zu viel Theorie, keine Möglichkeit dies umzusetzen => Frust und Enttäuschung, "Hilfe" wird abgelehnt
 
 ### Rat-Schläge
-Ainara: zu viel Abstraktion, keine Möglichkeit dies umzusetzen => Frust und Enttäuschung, "Hilfe" wird abgelehnt
+Merle: zu viel Abstraktion, keine Möglichkeit dies umzusetzen => Frust und Enttäuschung, "Hilfe" wird abgelehnt
 
 ### Abnehmen - erlernte Hilflosigkeit
 
