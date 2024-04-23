@@ -23,7 +23,8 @@
 ### Ehrlichkeit
 
 ### Innere Haltung oder die Anti-Anti-Autoritäre Erziehung
-Radio-Feature. Logische Konsequenz. Innere Haltung / nonverbale Kommunikation
+Radio-Feature: "der Unterschied zwischen Strafe und logischer Konsequenz ist die Innere Haltung"  
+Nonverbale Kommunikation.
 
 ## Helfen wollen
 

@@ -1,0 +1,14 @@
+*.docx
+*.pdf
+Krankmeldung*
+Kurzarbeit*
+IBAN*
+Gehalt/
+PBKonto/
+Packliste*
+*xcf
+*py
+*png
+caiman*
+*graphml
+*workspace
