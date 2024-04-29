@@ -12,6 +12,6 @@ Folgendes findet Ihr in den Unterordnern:
 * **Heilung:** ganz schlechter Arbeitstitel! Ich habe festgestellt, dass es drei Zutaten gibt, die Veränderung im Psychichen Sinne bewirken.
 * **Sein nicht so wie ich:** Meine Mutter, meine Tochter und ich.
 
-Ich arbeite an den Texten, es ist alles sehr unfertig. Manche Kapitel passen nicht zu den anderen, aber ich behalte sie, weil sie ein Gedanke enthalten, den ich festhalten möchte, erstmals.
+Ich arbeite an den Texten, es ist alles sehr unfertig. Manche Kapitel passen nicht zu den anderen, aber ich behalte sie, weil sie ein Gedanke enthalten, den ich festhalten möchte, erstmals. Außerdem gibt es viele Überschriften, über fast allen Absätzen, dies ist nur eine Merkhilfe, damit ich die Texte nicht lesen muss um zu wissen worum es da geht :-)
 
 Über konstruktive Kritik freue ich mich: eqvis [at] hotmail [dot] com
