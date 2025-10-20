@@ -13,10 +13,10 @@ Erforscht Paradoxien in Eltern-Kind-Beziehungen durch verschiedene Geschichten, 
 ### 01_fuer_Mutter
 Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer Mutter, die beschreibt, wie sich ihre Beziehung von der Kindheit über das Erwachsenenalter bis hin zur eigenen Mutterschaft entwickelt hat.
 
-### 03_Dunkelheit_hmm
+### 03_Dunkelheit_hmm (Stil etwas anders)
 Chronik der Reise der Autorin durch Depression und emotionale Heilung, die den Moment beschreibt, als sie erkannte, dass sie nicht mehr die ständige Last der Traurigkeit trägt.
 
-### 05_Alleine_hmm
+### 05_Alleine_hmm (Stil anders / Raus?)
 Reflektiert über Einsamkeit und Beziehungskämpfe, insbesondere während einer schwierigen Zeit nach einer Trennung und dem Umzug in eine neue Wohnung.
 
 ### 05_wahrer_trost
