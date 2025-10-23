@@ -33,3 +33,29 @@ GitHub ist wie ein Online-Speicher für deine Projekte. Stell dir vor, du arbeit
 * Füge die URL ein: https://github.com/eqvis/eqvis.git
 * Wähle einen Ordner, in dem das Projekt gespeichert werden soll
 * VS Code fragt, ob du das Projekt öffnen willst – bestätige mit „Ja“
+
+### Änderungen einchecken (Speichern im Projektverlauf)
+
+Wenn eine Datei bearbeitet wurde, z. B. etwas in text.txt geändert, kann diese Änderung „eingecheckt“ werden – das heißt, sie wird im Projektverlauf gespeichert.
+
+1. Änderungen sehen:  
+  In VS Code links auf das Symbol mit den drei Linien und Punkten klicken (das ist Git).
+  Dort sieht man alle geänderten Dateien.
+2. Änderungen hinzufügen („add“):  
+  Einfach auf das + neben der Datei klicken → das bedeutet: „Ich möchte diese Änderung speichern“.
+3. Beschreibung eingeben:  
+  Oben erscheint ein Feld „Message“ – hier schreibt man kurz, was man geändert hat (z. B. „Rechtschreibung verbessert“).
+4. Einchecken („commit“):  
+  Danach auf den Haken oben klicken → das speichert die Änderung lokal im Verlauf.
+5. Hochladen zu GitHub („push“):  
+  Wenn das Projekt mit GitHub verbunden ist, erscheint ein Button „Push“ oder „Synchronisieren“.  
+  Draufklicken → die Änderung wird online gespeichert.
+
+### Änderungen vergleichen
+
+* Zwischen aktuellem Stand und letztem Commit (HEAD)  
+  Rechtsklick auf die Datei → „Vergleichen mit HEAD“ → zeigt, was sich seit dem letzten Einchecken geändert hat.
+* Zwischen zwei Commits  
+  Links im Git-Bereich auf „Commits“ klicken (kleines Uhr-Symbol).  
+  Zwei Commits auswählen → Rechtsklick → „Vergleichen“ → VS Code zeigt die Unterschiede.
+
