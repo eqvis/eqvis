@@ -3,7 +3,11 @@
 "Ich kann ganz schön nerven, stimmt's?"
 *Merle, 4 Jahre*
 
-Ich bin im Laufe der Jahre zu der Überzeugung gekommen, dass dieses Gefühl, das fast jeder kennt, "Ich bin nicht gut genug" eigentlich daher kommt, dass uns unsere Eltern, manchmal auch Lehrer, Großeltern oder gar Geschwister und Freunde, wiederholt eine bestimmte Botschaft vermittelt haben. So oft, dass es zu einem Teil unseres Selbstbilds geworden ist. Es sind oft Sätze die mit "Du bist zu..." anfangen, oder die Worte "immer" oder "nie" mit Eigenschaften unseres Characters verknüpfen. Irgendwann glauben wir es selbst und jede Erinnerung daran tut weh: wir haben diesen Makel verinnerlicht und haben entsprechende Glaubensätze gelernt. Für mich sind es folgende:
+Ja, so ist es. Manchmal können uns unsere Kinder aber auch unsere Partner so richtig triggern. Triggern kommt aus dem Englischen und bedeutet, dass etwas das gesagt oder getan wurde bei jemanden starke Emotionen auslöst. Meistens hat die Reaktion eher mit früheren Erfahrungen zu tun als mit der aktuellen Situation und ist übertrieben, also eine Überreaktion. Im Laufe der Jahre bin ich zu der Überzeugung gekommen, dass dieser innere Satz "Ich bin nicht gut genug" eigentlich daher kommt, dass uns unsere Eltern, manchmal auch Lehrer, Großeltern oder gar Geschwister und Freunde, wiederholt eine bestimmte Botschaft vermittelt haben. So oft, dass es zu einem Teil unseres Selbstbilds geworden ist. Es sind oft Sätze die mit "Du bist zu..." anfangen, oder die Worte "immer" oder "nie" mit Eigenschaften unseres Characters verknüpfen. Irgendwann glauben wir es selbst und jede Erinnerung daran tut weh: wir haben diesen Makel verinnerlicht und haben entsprechende Glaubensätze gelernt. Bestimmte Situationen fühlen sich dann besonders "schlimm" an, wenn wir daran erinnert werden.
+
+Wenn Du stark weinst und ich es nicht nachvollziehen kann, dann werde ich immer mal wieder nervös. In meinem Kopf klingen Sätze wie "Jetzt reiß Dich mal zusammen!" oder "Du muss immer so dramatisieren!". Sätze die ich als Kind immer wieder gehört habe. Dein Verhalten triggert mich. Innerlich werden ich aggressiv, so wie damals meine Mutter auf mich. Ich darf nicht so sein, d.h. niemand darf so sein. Ich konnte meinen Schmerz darüber nicht leben, ich musste mich 
+
+Für mich sind es folgende:
 
 - Ich bin verträumt/verpeilt (ich bin vergesslich, komme zu spät, bin nicht zuverlässig)
 - Ich bin zu dick (zu langsam, unsportlich)
