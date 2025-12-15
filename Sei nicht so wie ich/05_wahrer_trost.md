@@ -1,8 +1,7 @@
 # Wahrer Trost
 
 "Ich gebe Dir einen Kuss der heilt 20%. Dann kannst Du mehrere bekommen."
-- Merle 8 Jahre
-
+- *Merle 8 Jahre*
 
 Kannst Du Dich an die Mutter-Kind-Kur erinnern, Merle? Ich hatte so große Angst mich mal wieder nicht zugehörig zu fühlen. Und noch viel größere Angst davor, dass Du Dich nicht wohl fühlen würdest. Ich war so erleichtert gewesen, als Du im Kindergarten nette Erwachsene fandest, denen ich Dich übergeben konnte ohne große Angst, dass sie etwas an Dir kaputt machen würden. Wir hatten damals aber eine Eingewöhnung gehabt, die wir hier nicht haben würden. Du warst zwar schon fünfeinhalb und keine drei mehr, aber trotzdem noch so klein. Ich hatte Angst Dich und mich nicht beschützen zu können. Nicht klar zu kommen, mich nicht wohl zu fühlen. Wir fuhren trotzdem hin.
 
