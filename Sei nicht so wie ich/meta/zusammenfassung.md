@@ -146,6 +146,29 @@ Reflektiert über Scham, öffentliches Verhalten und die Herausforderung, die Un
 - Lieder und Zitate
 Betrachtet das Wesen des Erwachsenseins und die Erkenntnis, dass auch Erwachsene, einschließlich Eltern, unsicher und unvollkommen sind. Erforscht das Durchschauen von Fassaden bei anderen Menschen und den Unterschied zwischen Authentizität und Schauspielerei.
 
+### 99_geborgenheit
+
+1758 Wörter / 6 Seiten
+"Wir haben über Geborgenheit geredet. Viele Kinder haben gesagt, sie fühlen sich mit ihrem Kuscheltier geborgen, nur ich und Bea und Lukas haben gesagt, dass wir uns bei unseren Müttern so fühlen."
+- Merle, 7 Jahre
+
+- Ein Traum von Geborgenheit
+- Der Hunger nach Nähe und die Angst davor
+Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit der Angst, erdrückt oder verlassen zu werden. Ein Traum wird zum Spiegel für unerfüllte Bedürfnisse nach bedingungsloser Annahme. Die Autorin erkundet, wie frühe Bindungserfahrungen die gegenwärtige Fähigkeit, sich fallen zulassen, beeinflussen, und findet kleine Momente der Entspannung in alltäglichen Kämpfen mit Nähe.
+
+### 99_Verzeihen
+
+3847 Wörter / 13 Seiten
+"Früher bist Du nach einem Streit zu mir gekommen und hast Dich zu erst entschuldigt. Aber jetzt machst Du es immer weniger. Immer muss ich mich zuerst entschuldigen!"
+- Merle, 10 Jahre
+
+- Eine Krankheit und plötzliche Nähe
+- Ich sah ihn als Opfer seiner selbst
+- Die Idealisierung aufgeben
+- Verwundbarkeit verbindet
+- Nicht jeder zeigt Reue auf die gleiche Weise
+Die Autorin erforscht Verzeihen als langwierigen inneren Prozess, nicht als schnelle Absolution. Anhand von Beispielen mit beiden Eltern zeigt sie, wie echtes Verzeihen Verwundbarkeit, Authentizität und das Loslassen von idealisierten Bildern erfordert. Sie reflektiert, dass Erwachsenwerden bedeutet, die Eltern als unvollkommene Menschen zu sehen und zu akzeptieren, dass ihre Liebe manchmal nicht ausreicht für das, was wir brauchen. Ein Essay über innere Haltung, Ohnmacht und graduelles Loslassen.
+
 ## Themen
 
 - Mutter-Tochter-Beziehungen
@@ -161,4 +184,4 @@ Betrachtet das Wesen des Erwachsenseins und die Erkenntnis, dass auch Erwachsene
 
 Die Sammlung bietet einen intimen Einblick in das Durchbrechen negativer familiärer Muster unter Anerkennung der Komplexität von Eltern-Kind-Beziehungen.
 
-Gesamt (Kapitel 01–99): 37.541 Wörter / ca. 125 Seiten
+Gesamt (Kapitel 01–99): 43.146 Wörter / ca. 144 Seiten
