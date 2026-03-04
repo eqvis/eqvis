@@ -1,4 +1,5 @@
 Titel:
+
 - Die Illusion der Kontrolle aufgeben. Scham und Schuldgefühle auflösen
 - Durch die Ohnmacht zu inneren Frieden.
 
@@ -10,7 +11,6 @@ Titel:
 - Bewusstwerdung, Sicherheit (Distanz bzw. Dissoziation)
 
 -> "Trauerarbeit"
-
 
 Konzepte
 
@@ -38,7 +38,7 @@ Beispiele
 
 Anderes
 
-- Yoga
 - Kampfkunst
 - Neurogenes Zittern
-- Meditation
+- Meditation, Achtsamkeit
+- Gesang
