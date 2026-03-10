@@ -1,7 +1,7 @@
 # Das Bild am Kühlschrank
 
-"Ich mag mich nicht im Badeanzug vor allen anderen Kindern zeigen"
-- Merle, 9 Jahre.
+"Ich mag mich nicht im Badeanzug vor allen anderen Kindern zeigen"  
+— *Merle, 9 Jahre*
 
 ## Traum - Stillen
 Ich hatte einen seltsamen Traum gehabt. Es war ein erotischer Traum mit einem mir fremden Mann. Ich saugte an seinem Penis und plötzlich war ich irritiert, weil nichts rauskam. Es war kein Penis mehr, sondern eine Brust. Ich war entsetzt und erschrocken und verzweifelt. Ich wachte auf und fing an bitterlich zu weinen.

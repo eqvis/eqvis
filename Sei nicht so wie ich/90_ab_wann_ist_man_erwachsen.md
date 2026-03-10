@@ -1,7 +1,7 @@
 # Erwachsen sein
 
-"Ist Daniel schon erwachsen?" - "Na ja, mit 18 ist er Volljährig. Aber ab wann jemand Erwachsen ist, das ist schwer zu sagen."
-*Merle, 6 Jahre*
+"Ist Daniel schon erwachsen?" - "Na ja, mit 18 ist er Volljährig. Aber ab wann jemand Erwachsen ist, das ist schwer zu sagen."  
+— *Merle, 6 Jahre*
 
 ## Lieder und Zitate
 

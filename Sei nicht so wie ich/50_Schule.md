@@ -1,5 +1,8 @@
 # Ich will nicht in die Schule
 
+"Die Schule ist doof. Wir haben viel zu wenig Ferien"  
+— *Merle*
+
 Meine Hand tut weh. Vorgestern hat mich eine Wespe gestochen, glaube ich. Wenn es bis morgen nicht besser ist, gehe ich zum Arzt. Außerdem huste ich noch viel und meine Nase ist wund vom vielen Putzen. Der Unterschied zu letzter Woche ist nur, dass ich keine erhöhte Temperatur mehr habe. Ich hätte mich noch einmal krankschreiben lassen können, aber ich habe entschieden, dass ich jetzt gesund genug bin und gesund werde. Ich bin heiser.
 
 Gestern Abend hast Du Dich über die Schule beklagt. Über Lia und über Milan. Heute Morgen wolltest Du nicht in die blöde Schule. Kann ich verstehen, Schule fand ich auch nicht immer nur toll, oft war es für mich eine Qual. Besonders mit bestimmten Lehrern, die ich nicht mochte oder mich nicht mochten. Es gab keine Wahl, Schule ist Pflicht. Manchmal wenn es sehr schlimm war, hat mich meine Mutter Zuhause bleiben lassen. Ich finde das gut, manchmal geht einfach nichts mehr. Aber heute geht auch bei mir nichts. Ich war jetzt viereinhalb Wochen krankgeschrieben, heute ist mein erster Arbeitstag. Ich bin außerdem Emotional auch nicht auf der Höhe.

@@ -1,9 +1,7 @@
-# Was ich dir sagen wollte
+# Brief an eine Freundin
 
-"...und manchmal schäme ich mich für etwas was Du tust, Mama. Z.B. wenn Du fremde Menschen auf der Straße ansprichst und ein Witz machst."
-*Merle, 9 Jahre*
-
-## Brief an eine Freundin
+"...und manchmal schäme ich mich für etwas was Du tust, Mama. Z.B. wenn Du fremde Menschen auf der Straße ansprichst und ein Witz machst."  
+— *Merle, 9 Jahre*
 
 Liebe Freundin,
 

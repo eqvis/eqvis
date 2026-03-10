@@ -1,4 +1,7 @@
-# Aus dem Krankenhaus
+# Krankenhaus 1
+
+"Was wenn ihr in der Nacht etwas passiert und wir merken es nicht?"  
+— *Ich, 36 Jahre*
 
 ## Familienzimmer
 
@@ -13,6 +16,7 @@ Ich hatte mich auf Dich riesig gefreut. Die Schwangerschaft war super verlaufen.
 Ein paar Tage vor meiner Eklampsie hatte ich einen Flashback. Ich war als Kind fast ertrunken. Ich konnte schon schwimmen, mein Bruder aber nicht. Er saß auf einem kleinen Gummibot und ich schob ihn durch's Schwimmbecken. Nach einer Weile war es mir zu langsam und zu mühsam, also hatte ich die geniale Idee, mich mit Schwung am Rand abzustoßen. Das Bot kippte dadurch um und mein Bruder zappelte unter Wasser. Er hielt sich an mir fest und wir gingen beide unter. Ich weiß noch genau, dass meine Mutter einen braunen Rock und ein olivgrünes T-Shirt anhatte. Sie lag unter einer Trauerweide und las. Die Schuhe hat sie gerade noch ausgezogen, dann war sie schon im Wasser und holte meinen Bruder raus. Alles war gut gegangen. Aber ich meide das Wasser immernoch. Deshalb gehe ich nicht mit Euch ins Freibad. Auch dort hatte ich mal einen Flashback, aber so richtig mit zittern und weinen und ich brauchte eine Weile bis ich mich wieder beruhigen konnte. Ich gehe nicht mit, weil ich nicht will, dass Du meine Angst vor Wasser lernst. Es ist schön zu wissen, dass Du Spaß mit Papa hast und ich bin stolz auf Dich.
 
 ## Verantwortungsangst
+
 Vor der Geburt hatte ich große Angst vor der Verantwortung. Angst davor von Deiner Abhängigkeit gefangen zu sein. Als stillende Mutter klebt das Baby förmlich am eigenen Körper. Mich überforderte diese Vorstellung. Mir fehlte die Luft. Es ist immer noch so, dass Du Dich eher an mich wendest als an Deinen Vater. Ich habe irgendwann gelernt zu sagen "frag Deinen Vater". Aber es klappt nicht immer. Oft lehnst Du Deinen immer größer werdenden Körper an meinen, ich halte einen Teil Deines Gewichts, bis ich es nicht mehr kann, dann sage ich es Dir. Aber manchmal bin ich überfordert und genervt und brauche Abstand, ich hätte schon viel früher was sagen müssen. Es tut mir Leid, ich will Dich nicht ablehnen. Ich brauche Dich und ich brauche das Gefühl wichtig für Dich zu sein. Aber es schnürt mir manchmal die Luft ab. Je mehr ich lerne mich abzugrenzen und lerne, dass es etwas gutes ist, dass ich mich nicht schuldig fühlen brauche und Du auch lernen musst mit Frust umzugehen, desto besser klappt es. Zumindest Phasenweise. Wenn einer von uns krank ist, kippt es oft wieder. Ich will nicht, dass Du das Gefühl hast, dass Du nervst, dass ich Dich nicht bei mir haben will. Wir reden darüber. Wir reden darüber, dass es nicht immer alles gleich ist und ich nicht alles mögen muss was Du magst. Meine Lieblingsfarbe ist nicht Deine Lieblingsfarbe. Einfach oder? Naja, zumindest in der Theorie.
 
 ## Nur-Schultern-Umarmung

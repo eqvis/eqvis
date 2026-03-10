@@ -1,7 +1,7 @@
 # Geborgenheit
 
-"Wir haben über Geborgenheit geredet. Viele Kinder haben gesagt, sie fühlen sich mit ihrem Kuscheltier geborgen, nur ich und Bea und Lukas haben gesagt, dass wir uns bei unseren Müttern so fühlen."
-- Merle, 7 Jahre.
+"Wir haben über Geborgenheit geredet. Viele Kinder haben gesagt, sie fühlen sich mit ihrem Kuscheltier geborgen, nur ich und Bea und Lukas haben gesagt, dass wir uns bei unseren Müttern so fühlen."  
+— *Merle, 7 Jahre*
 
 Ich hatte heute Nacht einen Traum:
 

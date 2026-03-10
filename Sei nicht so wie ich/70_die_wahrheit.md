@@ -1,7 +1,7 @@
 # Nichts als die Wahrheit
 
-"Wir schreiben nicht, dass er ein guter Opa war, denn das stimmt nicht. Aber wir können schreiben, dass wir ihn vermissen"
-*Merle, 9 Jahre. Kurz nachdem mein Vater gestorben war.*
+"Wir schreiben nicht, dass er ein guter Opa war, denn das stimmt nicht. Aber wir können schreiben, dass wir ihn vermissen"  
+— *Merle, 9 Jahre*
 
 Als ich sechzehn war oder vielleicht sogar älter, sollte ich in einem Elektronikladen etwas kaufen, dass ich selbst nicht kannte. Außerdem kannte ich das Wort nicht, weil der Freund meiner Mutter, der es bestellt hatte, auch nicht wusste wie es hieß. Also wiederholte ich dem Verkäufer nur die gelernte Beschreibung etwas verunsichert lächelnd und sagte, so wurde es mir beschrieben. Der Verkäufer fragte plötzlich, ob ich es für meinen Vater kaufern wolle. Ich antworten spontan mit "Ja". Danach musste ich lange darüber nachdenken, weil ich gelogen hatte. Es fällt mir generell schwer zu lügen. Ich habe immer Angst, dass ich sofort entlarvt werden, dass mein Gesicht oder meine Stimme mich verraten. Ich ziehe es vor, Halbwahrheiten auszusprechen oder gar nichts zu sagen, wenn ich mich nicht sicher genug fühle die Wahrheit zu sagen. Meistens sage ich aber hoffentlich diplomatisch genug dann doch die Wahrheit.
 
