@@ -51,6 +51,12 @@ Was schon immer etwas seltsam war, ist meine Neigung zur Depersonalisation. Ich 
   * Gewaltfreie Kommunikation
   * Innere Haltung (siehe Heilung)
   * Transaktionsanalyse: "Werde nicht erwachsen!"
+  * Innere Haltung
+    * Fokus: MMA "killer Instinkt"
+    * Sorge statt Wut
+    * Authentizität mit Kindern, Tieren... und Erwachsenen!
+* Zu viel Nähe: Krankenhaus (1) - Angst was falsch zu machen, Angst vor Veränderung, Angst vor VERANTWORTUNG: selbstverlust.
+* Aggressionshemmung: Krankenhaus (2) - Die Nadeln im Arm. Die Grenzüberschreitung. Lieber verrückt als wütend.
 
 ### Verzeihen
 

@@ -78,7 +78,7 @@ Meine Mutter ist mir oft die beste auf der Welt. Früher war sie das ausschließ
 
 In einem Film hatte ich gesehen wie ein verletzter junger Mann so tut als wäre alles ok, er glaubt es selbst. Da provoziert der ältere Mann ihn und er wird erst wütend und will ihn weg schieben oder schlagen, ich weiß es nicht mehr, aber der ältere Mann weicht aus und dreht ihn um, so dass er ihn von hinten festhält. Der Junge zappelt kurz und bricht dann zusammen und weint. Wut und Trauer sind oft eng verbunden. Manchmal gesellt sich die Angst noch dazu.
 
-## Grenzen setzen
+## Erste Veränderungen: Grenzen setzen + zuhören
 
 ### Detmold - Abendessen bei Karin
 
@@ -97,8 +97,6 @@ Wochen später schrieb ich meiner Mutter eine Email. Mein Wunsch war damals nich
 Du wirst jetzt neun. Du wirst diese Zeilen die nächsten Jahre nicht lesen. Irgendwann vielleicht, wenn Du größer bist. Du liebst Deine Oma und Deine Oma liebt Dich. Es ist schön euch beiden beim Spielen oder Reden zuzuschauen. Ich hatte keine so tolle Oma wie Du, die eine starb zu früh, die andere konnte mit Kindern nicht so gut umgehen. Es ist eine wirklich großartige Oma, mit der Du alles mögliche machen kannst. Aber Du weißt, dass es zwischendurch auch Momente gibt, die nicht so schön sind. Nicht viele, aber es gibt sie. Und Du weißt, dass ich manchmal nicht so gut mit ihr klar komme.
 
 Es tut mir sehr leid, dass ich manchmal Deine Gefühle klein gemacht habe oder von Dir Verständnis für Deine Oma gefordert habe. Ich bereue es, dass ich Dich nicht immer zu Dir halten konnte und meine Mutter geschützt habe. Es fällt mir immer noch so schwer andere zu konfrontieren. Ich schweige noch immer viel zu oft und halte aus.
-
-## Verständnis heilt
 
 ### Ich mache es anders
 

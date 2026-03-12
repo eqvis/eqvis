@@ -20,7 +20,6 @@ Die Sammlung bietet einen intimen Einblick in das Durchbrechen negativer famili�
 Gesamt (Kapitel 01–99): 43.146 Wörter / ca. 144 Seiten
 
 ## Kapitelzusammenfassungen
-
 ### Vorwort — 00_Vorwort.md
 
 **Umfang:** 290 Wörter / 1 Seiten
@@ -32,6 +31,7 @@ Gesamt (Kapitel 01–99): 43.146 Wörter / ca. 144 Seiten
 * Projektion und verdrängte Eigenschaften
 * Angst sie wird wie ich
 
+**Inhalt:**
 Die Autorin reflektiert über die Beobachtung ihrer Mutter, dass ihre Tochter ähnlich verträumt und abgelenkt sei wie sie selbst. Sie diskutiert, wie Eltern ihre eigenen Eigenschaften auf ihre Kinder projizieren und ihre anfänglichen Ängste, ihre Tochter könnte "wie sie" werden.
 
 ### An Merle — 01_An_Merle.md
@@ -61,6 +61,7 @@ Die Autorin reflektiert über die Beobachtung ihrer Mutter, dass ihre Tochter ä
   * Detmold - Weggelaufen
   * Ich mache es anders
 
+**Inhalt:**
 Erforscht Paradoxien in Eltern-Kind-Beziehungen durch verschiedene Geschichten, einschließlich eines Zahnarztbesuchs und Schwangerschaftserinnerungen. Diskutiert verschiedene Ausdrucksformen von Liebe, die Herausforderungen der Elternschaft und wie die Autorin bewusst anders erziehen möchte als ihre Mutter.
 
 ### Deine Oma, meine Mutter — 02_fuer_Mutter.md
@@ -76,6 +77,8 @@ Erforscht Paradoxien in Eltern-Kind-Beziehungen durch verschiedene Geschichten, 
 * Die Oma
 * Erste Mal geweint
 * Verständnis - Gesehen werden
+
+**Inhalt:**
 Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer Mutter. Beschreibt wie sich ihre Wahrnehmung ihrer Mutter verändert hat, ihre Kindheitserfahrungen mit Kontrolle und Distanz, und wie Kommunikation und gegenseitiges Verständnis zur Heilung führen.
 
 ### Der Tag an dem ich aufhörte unsichtbar zu sein - Januar 2020 — 03_Dunkelheit_hmm.md
@@ -122,6 +125,7 @@ Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer M
 * Bewusste Distanzen schaffen
 * Unsichtbarkeit in Filmen und Geschichten
 
+**Inhalt:**
 Detaillierte Schilderung einer Phase großer Einsamkeit nach dem Umzug und einer Trennung. Die Autorin beschreibt das Gefühl, unsichtbar zu sein, und wie dieses Muster schon aus der Kindheit bekannt ist.
 Der Text verknüpft Alltagsszenen mit therapeutischen Reflexionen und zeigt Wege zu Selbstwert und neu gesetzten Grenzen.
 Er betont die langsame Arbeit des Wiederaufbaus sozialer Beziehungen und das Finden von stabilen Freundschaften.
@@ -143,6 +147,7 @@ Er betont die langsame Arbeit des Wiederaufbaus sozialer Beziehungen und das Fin
 * Selbstkontrolle und Akzeptanz
 * Das Geschenk des Gesehenwerdens
 
+**Inhalt:**
 Bericht über das Erleben von Trost: was es bedeutet, wirklich bei einem Menschen zu sein, ohne sofort Lösungen anzubieten.
 Die Autorin reflektiert, wie eigene Verletzungen das Trösten erschweren und wie Präsenz, Geduld und Entschuldigungsbereitschaft heilend wirken.
 Konkrete Szenen (Mutter-Kind-Kur, Umgang mit Wut) illustrieren die Praxis des tröstenden Verhaltens.
@@ -162,6 +167,7 @@ Konkrete Szenen (Mutter-Kind-Kur, Umgang mit Wut) illustrieren die Praxis des tr
 * Der innere Schweinehund und Realität
 * Flexible Selbstbilder und neue Sätze
 
+**Inhalt:**
 Untersucht Gefühle der Unzulänglichkeit und deren Ursprünge in Kindheitsbotschaften von Eltern und Autoritätsfiguren, und wie diese sich im Erwachsenenleben manifestieren.
 
 ### Das Bild am Kühlschrank — 10_Dicksein.md
@@ -182,6 +188,7 @@ Untersucht Gefühle der Unzulänglichkeit und deren Ursprünge in Kindheitsbotsc
 * Neid - Luise W.
 * Merle findet mich "kuschelig"
 
+**Inhalt:**
 Persönliche Auseinandersetzung mit Körperbild, Scham und familiären Botschaften. Der Text verbindet Kindheitserinnerungen und Träume mit der heutigen Selbstwahrnehmung.
 Statt radikaler Diätforderungen geht es um das Verstehen von Bedürfnissen, Akzeptanz und achtsamen Umgang mit Essverhalten.
 
@@ -199,6 +206,7 @@ Statt radikaler Diätforderungen geht es um das Verstehen von Bedürfnissen, Akz
 * Muster mit Noah: Einsamkeit und Wut
 * Angst um Merles Träumerei
 
+**Inhalt:**
 Konzentriert sich auf die Beziehung zu ihrem Vater und Gefühle der Unsichtbarkeit und Einsamkeit, besonders an Geburtstagen und besonderen Anlässen.
 
 ### Scheinheilig und verlogen — 30_verlogen.md
@@ -226,6 +234,7 @@ Konzentriert sich auf die Beziehung zu ihrem Vater und Gefühle der Unsichtbarke
 * Mein Konfliktverhalten und deine Direktheit
 * Worte geben für Gefühle und eigenen Zorn akzeptieren
 
+**Inhalt:**
 Eingehende Auseinandersetzung mit Authentizität, Misanthropie und versteckten Gefühlen. Die Autorin erforscht ihre Verachtung für die Menschheit, ihre Strategien zur Selbstschutz durch Lügen und Lächeln, und wie diese Muster ihre Erziehung und Beziehungen prägen. Ein wichtiges Kapitel über das Sichtbarmachen von Gefühlen, die sonst verborgen bleiben.
 
 ### Krankenhaus 1 — 40_Frühchen.md
@@ -242,6 +251,7 @@ Eingehende Auseinandersetzung mit Authentizität, Misanthropie und versteckten G
 * Nur-Schultern-Umarmung
 * Balance: ich-wir
 
+**Inhalt:**
 Ernste, unmittelbare Schilderung der Tage im Krankenhaus mit einem Frühchen: Angst, Überforderung und kleine Hoffnungsmomente.
 Der Text reflektiert Flashbacks, die Angst vor Verantwortung und die Notwendigkeit, Grenzen zu setzen und Balance zwischen Fürsorge und Selbstschutz zu finden.
 Konkrete Metaphern (z. B. das Bild der Umarmung als „A“) verknüpfen Einsicht mit praktischen Strategien für Nähe ohne Erstickung.
@@ -256,6 +266,7 @@ Konkrete Metaphern (z. B. das Bild der Umarmung als „A“) verknüpfen Einsich
 **Umfang:** 1113 Wörter / 4 Seiten
 **Zitat:** "Die Schule ist doof. Wir haben viel zu wenig Ferien"
 
+**Inhalt:**
 Details über die Herausforderungen, Kinder zur Schule zu bringen und Morgenroutinen zu bewältigen, reflektiert über Geduld und Erziehungskämpfe.
 
 ### Wut, Frust und Ohnmacht — 60_Wut_und_Frust.md
@@ -263,6 +274,7 @@ Details über die Herausforderungen, Kinder zur Schule zu bringen und Morgenrout
 **Umfang:** 3123 Wörter / 10 Seiten
 **Zitat:** "Aber ich bin nicht wütend auf das Kissen!"
 
+**Inhalt:**
 Erforscht den Umgang mit Wut, Therapieerfahrungen und das Erlernen gesünderer Wege im Umgang mit Emotionen.
 
 ### Nichts als die Wahrheit — 70_die_wahrheit.md
@@ -270,6 +282,7 @@ Erforscht den Umgang mit Wut, Therapieerfahrungen und das Erlernen gesünderer W
 **Umfang:** 450 Wörter / 2 Seiten
 **Zitat:** "Wir schreiben nicht, dass er ein guter Opa war, denn das stimmt nicht. Aber wir können schreiben, dass wir ihn vermissen"
 
+**Inhalt:**
 Diskutiert Ehrlichkeit und Wahrheitsfindung in Beziehungen, insbesondere in Bezug auf schwierige Familiendynamiken und Tod.
 
 ### Brief an eine Freundin — 80_was_ich_dir_sagen_wollte.md
@@ -277,6 +290,7 @@ Diskutiert Ehrlichkeit und Wahrheitsfindung in Beziehungen, insbesondere in Bezu
 **Umfang:** 1018 Wörter / 3 Seiten
 **Zitat:** "...und manchmal schäme ich mich für etwas was Du tust, Mama. Z.B. wenn Du fremde Menschen auf der Straße ansprichst und ein Witz machst."
 
+**Inhalt:**
 Reflektiert über Scham, öffentliches Verhalten und die Herausforderung, die Unvollkommenheiten der Eltern zu akzeptieren.
 
 ### Erwachsen sein — 90_ab_wann_ist_man_erwachsen.md
@@ -288,6 +302,7 @@ Reflektiert über Scham, öffentliches Verhalten und die Herausforderung, die Un
 
 * Lieder und Zitate
 
+**Inhalt:**
 Betrachtet das Wesen des Erwachsenseins und die Erkenntnis, dass auch Erwachsene, einschließlich Eltern, unsicher und unvollkommen sind. Erforscht das Durchschauen von Fassaden bei anderen Menschen und den Unterschied zwischen Authentizität und Schauspielerei.
 
 ### Geborgenheit — 95_geborgenheit.md
@@ -295,11 +310,7 @@ Betrachtet das Wesen des Erwachsenseins und die Erkenntnis, dass auch Erwachsene
 **Umfang:** 1077 Wörter / 4 Seiten
 **Zitat:** "Wir haben über Geborgenheit geredet. Viele Kinder haben gesagt, sie fühlen sich mit ihrem Kuscheltier geborgen, nur ich und Bea und Lukas haben gesagt, dass wir uns bei unseren Müttern so fühlen."
 
-**Kapitelüberschriften:**
-
-* Ein Traum von Geborgenheit
-* Der Hunger nach Nähe und die Angst davor
-
+**Inhalt:**
 Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit der Angst, erdrückt oder verlassen zu werden. Ein Traum wird zum Spiegel für unerfüllte Bedürfnisse nach bedingungsloser Annahme. Die Autorin erkundet, wie frühe Bindungserfahrungen die gegenwärtige Fähigkeit, sich fallen zulassen, beeinflussen, und findet kleine Momente der Entspannung in alltäglichen Kämpfen mit Nähe.
 
 ### Verzeihen — 99_Verzeihen.md
@@ -307,12 +318,5 @@ Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit de
 **Umfang:** 2357 Wörter / 8 Seiten
 **Zitat:** "Früher bist Du nach einem Streit zu mir gekommen und hast Dich zu erst entschuldigt. Aber jetzt machst Du es immer weniger. Immer muss ich mich zuerst entschuldigen!"
 
-**Kapitelüberschriften:**
-
-* Eine Krankheit und plötzliche Nähe
-* Ich sah ihn als Opfer seiner selbst
-* Die Idealisierung aufgeben
-* Verwundbarkeit verbindet
-* Nicht jeder zeigt Reue auf die gleiche Weise
-
+**Inhalt:**
 Die Autorin erforscht Verzeihen als langwierigen inneren Prozess, nicht als schnelle Absolution. Anhand von Beispielen mit beiden Eltern zeigt sie, wie echtes Verzeihen Verwundbarkeit, Authentizität und das Loslassen von idealisierten Bildern erfordert. Sie reflektiert, dass Erwachsenwerden bedeutet, die Eltern als unvollkommene Menschen zu sehen und zu akzeptieren, dass ihre Liebe manchmal nicht ausreicht für das, was wir brauchen. Ein Essay über innere Haltung, Ohnmacht und graduelles Loslassen.

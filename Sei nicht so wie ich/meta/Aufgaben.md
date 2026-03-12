@@ -9,6 +9,7 @@
 ## Struktur
 
 Frau entwickelt sich von Verantwortung außen (Eltern) zu Verantwortung innen.
+Wie fand ich meine Stimmer wieder? -> In dem ich singe, laut werden, grenzen setzen, schreie, weine, meine Bedürfnisse achte...
 
 ## Perspektive
 

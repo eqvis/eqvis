@@ -30,13 +30,15 @@ Es liegt nicht an mir. Ich bin nicht schuld. Er ist in seiner Welt gefangen. Er 
 
 Ich will niemandem zu nahe treten. "Ich mute dir mich zu" sollten wir in einer Gruppenübung sagen. Ganz schön hart, selbst wenn es nur im Spiel ist. Ich schütze mich auch so wie mein Vater. Ich halte mich zurück und warte in meiner Ecke, dass jemand mich bemerkt. Ich bin enttäuscht, dass mich niemand sieht. Aber ganz im inneren weiß ich, dass ich in Sicherheit bin, wenn ich nicht auffalle, wenn ich nicht gesehen werde. Es hat auch seine gute Seite. Meine Angst und meinen Wunsch mich zu distanzieren hatte ich viele viele Jahre verdrängt. Es blieb die Angst unsichtbar für die Anderen zu sein.
 
-## Muster mit Noah: Einsamkeit und Wut Angst zu haben vor meinen eigenen Eltern und mich zurück zu ziehen bedeutete Ablehnung ihnen gegenüber und dies durfte nicht sein. Wenn ich sie liebte, dann blieb ich. Wenn ich sie liebte, dann wollte ich bleiben. Innerlich blendete ich sie aus, war in meiner eigenen Welt, immer wieder abgelenkt. Meine Mutter schimpfte "Hast Du Tomaten auf den Augen?" weil ich die Dinge die vor meiner Nase standen nicht sah.
+## Muster mit Noah: Einsamkeit und Wut
+
+Angst zu haben vor meinen eigenen Eltern und mich zurück zu ziehen bedeutete Ablehnung ihnen gegenüber und dies durfte nicht sein. Wenn ich sie liebte, dann blieb ich. Wenn ich sie liebte, dann wollte ich bleiben. Innerlich blendete ich sie aus, war in meiner eigenen Welt, immer wieder abgelenkt. Meine Mutter schimpfte "Hast Du Tomaten auf den Augen?" weil ich die Dinge die vor meiner Nase standen nicht sah.
 
 Wenn mein Mann über das Wochenende mit Freunden weg war, wurde ich in der Sicherheit der Einsamkeit sauer auf ihn. Alles was sich die vergangenen Wochen aufgestaut hatte, kam plötzlich hoch. Ich war so wütend, dass ich die Beziehung am liebsten sofort beenden wollte. Dann veränderte es sich. Ich schämte mich dieser Gefühle und hatte Angst vor Repressalien. Ich hatte Angst er könnte sich abwenden und selbst die Beziehung beenden. Ich weinte verzweifelt. Am nächsten Tag hatte ich mich wieder beruhigt. Als er wieder da war, begegnete ich ihm kalt und distanziert. Manchmal, wenn er mich länger umarmte, fühlte ich plötzlich die Angst vor seiner Ablehnung und weinte bitterlich während ich in Gedanken um Entschuldigung bat. Ich fühlte mich schuldig, als hätte er mich das Wochenende über bestraft für etwas, das ich getan hatte. Es war absurd, dass wusste ich, aber es fühlte sich so an.
 
 Während ich dies schreibe kommen mir die Tränen. Armes Kind, denke ich und meine mein früheres ich. Vielleicht war es gut, immer wieder meine Verlustängste so deutlich zu spüren.
 
-## Angst um Merles Abgelenkheit
+## Angst um Merles Träumerei
 
 Es war das erste Mal, dass eine Beziehung nicht als Fernbeziehung anfing. Das erste Mal, dass ich die Initiative ergriffen hatte.
 
