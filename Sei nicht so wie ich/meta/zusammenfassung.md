@@ -20,6 +20,8 @@ Die Sammlung bietet einen intimen Einblick in das Durchbrechen negativer famili�
 Gesamt (Kapitel 01–99): 43.146 Wörter / ca. 144 Seiten
 
 ## Kapitelzusammenfassungen
+
+
 ### Vorwort — 00_Vorwort.md
 
 **Umfang:** 290 Wörter / 1 Seiten
@@ -315,8 +317,17 @@ Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit de
 
 ### Verzeihen — 99_Verzeihen.md
 
-**Umfang:** 2357 Wörter / 8 Seiten
+**Umfang:** 2425 Wörter / 8 Seiten
 **Zitat:** "Früher bist Du nach einem Streit zu mir gekommen und hast Dich zu erst entschuldigt. Aber jetzt machst Du es immer weniger. Immer muss ich mich zuerst entschuldigen!"
+
+**Kapitelüberschriften:**
+
+* Eine Krankheit und plötzliche Nähe
+* Ich sah ihn als Opfer seiner selbst
+* Die Idealisierung aufgeben
+* Verwundbarkeit verbindet
+* Nicht jeder zeigt Reue auf die gleiche Weise
+* Schritte zum Verzeihen ~ Trauerprozess
 
 **Inhalt:**
 Die Autorin erforscht Verzeihen als langwierigen inneren Prozess, nicht als schnelle Absolution. Anhand von Beispielen mit beiden Eltern zeigt sie, wie echtes Verzeihen Verwundbarkeit, Authentizität und das Loslassen von idealisierten Bildern erfordert. Sie reflektiert, dass Erwachsenwerden bedeutet, die Eltern als unvollkommene Menschen zu sehen und zu akzeptieren, dass ihre Liebe manchmal nicht ausreicht für das, was wir brauchen. Ein Essay über innere Haltung, Ohnmacht und graduelles Loslassen.
