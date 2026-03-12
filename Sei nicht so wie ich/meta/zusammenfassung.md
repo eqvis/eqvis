@@ -1,191 +1,6 @@
 # Buchzusammenfassung: "Sei nicht so wie ich"
 
-Eine Sammlung persönlicher Essays und Reflexionen in Form von Briefen an die Tochter der Autorin, Merle, die Themen wie Mutterschaft, Kindheitstrauma und generationsübergreifende Beziehungen erkundet.
-
-*Kapitelbewertung:*
-
-* Status: ☑ ☐ ☒ (Fertig/Offen/Überarbeitung nötig)
-* Konfliktpotential mit Mutter: ⚠ (1-5) vs. ☀
-
-## Kapitelzusammenfassungen
-
-### 00_Vorwort
-
-242 Wörter / 1 Seite
-
-"Wenn wir unsere Geschichten teilen, erkennen wir, dass wir nicht allein sind. Und genau das ist heilsam." – Brené Brown
-
-* Vorwort
-
-Die Autorin reflektiert über die Beobachtung ihrer Mutter, dass ihre Tochter ähnlich verträumt und abgelenkt sei wie sie selbst. Sie diskutiert, wie Eltern ihre eigenen Eigenschaften auf ihre Kinder projizieren und ihre anfänglichen Ängste, ihre Tochter könnte "wie sie" werden.
-
-#### Bewertung: ☀ / ☑
-
-### 01_An_Merle
-
-4289 Wörter / 14 Seiten
-"Manchmal kann ich Dich ganz schön nerven, stimmt's?"
-
-* Paradoxien
-* Zahnarzt
-* Schwanger
-* Empfängnis
-* Detmold - Einleitung
-* Rosenberg und "Liebe"
-* Detmold - Abendessen bei Karin
-* Detmold - Weggelaufen
-* Ich mache es anders
-
-Erforscht Paradoxien in Eltern-Kind-Beziehungen durch verschiedene Geschichten, einschließlich eines Zahnarztbesuchs und Schwangerschaftserinnerungen. Diskutiert verschiedene Ausdrucksformen von Liebe, die Herausforderungen der Elternschaft und wie die Autorin bewusst anders erziehen möchte als ihre Mutter.
-
-#### Bewertung: ⚠ / ☑
-
-### 01_fuer_Mutter
-
-4371 Wörter / 15 Seiten
-"Ich weiß, dass sie es nicht absichtlich gemacht hat. Aber jetzt bin ich sauer, weil es so weh tut."
-
-* Zwei Mütter
-* In Frage stellen
-* Freude und Spaß
-* Die Oma
-* Erste Mal geweint
-* Verständnis - Gesehen werden
-Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer Mutter. Beschreibt wie sich ihre Wahrnehmung ihrer Mutter verändert hat, ihre Kindheitserfahrungen mit Kontrolle und Distanz, und wie Kommunikation und gegenseitiges Verständnis zur Heilung führen.
-
-#### Bewertung: ☀ ⚠ / ☐
-
-### 03_Dunkelheit_hmm
-
-2458 Wörter / 9 Seiten
-(Zitat fehlt)
-
-* Der Tag an dem ich aufhörte unsichtbar zu sein - Januar 2020
-Chronik der Reise der Autorin durch Depression und emotionale Heilung, die den Moment beschreibt, als sie erkannte, dass sie nicht mehr die ständige Last der Traurigkeit trägt.
-
-#### Bewertung: ☀ ⚠ / ☒
-
-### 05_Alleine_hmm
-
-1682 Wörter / 6 Seiten
-"Sie schaut mich nicht an, wenn ich mit ihr rede. Vielleicht mag sie mich nicht. Sie redet auch kaum mit mir."
-
-* Neuanfang - November 2012
-Detaillierte Schilderung einer Phase großer Einsamkeit nach dem Umzug und einer Trennung. Die Autorin beschreibt das Gefühl, unsichtbar zu sein, und wie dieses Muster schon aus der Kindheit bekannt ist.
-Der Text verknüpft Alltagsszenen mit therapeutischen Reflexionen und zeigt Wege zu Selbstwert und neu gesetzten Grenzen.
-Er betont die langsame Arbeit des Wiederaufbaus sozialer Beziehungen und das Finden von stabilen Freundschaften.
-
-### 05_wahrer_trost
-
-1458 Wörter / 5 Seiten
-"Ich gebe Dir einen Kuss der heilt 20%. Dann kannst Du mehrere bekommen."
-Bericht über das Erleben von Trost: was es bedeutet, wirklich bei einem Menschen zu sein, ohne sofort Lösungen anzubieten.
-Die Autorin reflektiert, wie eigene Verletzungen das Trösten erschweren und wie Präsenz, Geduld und Entschuldigungsbereitschaft heilend wirken.
-Konkrete Szenen (Mutter-Kind-Kur, Umgang mit Wut) illustrieren die Praxis des tröstenden Verhaltens.
-
-### 06_nicht_gut_genug
-
-1194 Wörter / 4 Seiten
-"Ich kann ganz schön nerven, stimmt's?"
-Untersucht Gefühle der Unzulänglichkeit und deren Ursprünge in Kindheitsbotschaften von Eltern und Autoritätsfiguren, und wie diese sich im Erwachsenenleben manifestieren.
-
-### 10_Dicksein
-
-1435 Wörter / 5 Seiten
-"Ich mag mich nicht im Badeanzug vor allen anderen Kindern zeigen"
-
-* Das Bild am Kühlschrank
-* Traum - Stillen
-Persönliche Auseinandersetzung mit Körperbild, Scham und familiären Botschaften. Der Text verbindet Kindheitserinnerungen und Träume mit der heutigen Selbstwahrnehmung.
-Statt radikaler Diätforderungen geht es um das Verstehen von Bedürfnissen, Akzeptanz und achtsamen Umgang mit Essverhalten.
-
-### 20_Einsam
-
-1124 Wörter / 4 Seiten
-(Zitat fehlt)
-
-* Einsam (Vater)
-Konzentriert sich auf die Beziehung zu ihrem Vater und Gefühle der Unsichtbarkeit und Einsamkeit, besonders an Geburtstagen und besonderen Anlässen.
-
-### 30_verlogen
-
-8437 Wörter / 28 Seiten
-"Bin ich auch so schlimm wie Ramon?"
-
-* (Es sind alles Arschlöcher)
-* Scheinheilig und verlogen
-Eingehende Auseinandersetzung mit Authentizität, Misanthropie und versteckten Gefühlen. Die Autorin erforscht ihre Verachtung für die Menschheit, ihre Strategien zur Selbstschutz durch Lügen und Lächeln, und wie diese Muster ihre Erziehung und Beziehungen prägen. Ein wichtiges Kapitel über das Sichtbarmachen von Gefühlen, die sonst verborgen bleiben.
-
-### 40_Frühchen
-
-893 Wörter / 3 Seiten
-"Aus dem Krankenhaus"
-Ernste, unmittelbare Schilderung der Tage im Krankenhaus mit einem Frühchen: Angst, Überforderung und kleine Hoffnungsmomente.
-Der Text reflektiert Flashbacks, die Angst vor Verantwortung und die Notwendigkeit, Grenzen zu setzen und Balance zwischen Fürsorge und Selbstschutz zu finden.
-Konkrete Metaphern (z. B. das Bild der Umarmung als „A“) verknüpfen Einsicht mit praktischen Strategien für Nähe ohne Erstickung.
-
-### 50_Schule
-
-1102 Wörter / 4 Seiten
-(Zitat fehlt)
-
-* Ich will nicht in die Schule
-Details über die Herausforderungen, Kinder zur Schule zu bringen und Morgenroutinen zu bewältigen, reflektiert über Geduld und Erziehungskämpfe.
-
-### 60_Wut_und_Frust
-
-3124 Wörter / 11 Seiten
-(Zitat fehlt)
-
-* Wut, Frust und Ohnmacht
-Erforscht den Umgang mit Wut, Therapieerfahrungen und das Erlernen gesünderer Wege im Umgang mit Emotionen.
-
-### 70_die_wahrheit
-
-456 Wörter / 2 Seiten
-"Wir schreiben nicht, dass er ein guter Opa war..."
-
-* Nichts als die Wahrheit
-Diskutiert Ehrlichkeit und Wahrheitsfindung in Beziehungen, insbesondere in Bezug auf schwierige Familiendynamiken und Tod.
-
-### 80_was_ichdir_sagen_wollte
-
-845 Wörter / 3 Seiten
-"...und manchmal schäme ich mich für etwas was Du tust, Mama..."
-Reflektiert über Scham, öffentliches Verhalten und die Herausforderung, die Unvollkommenheiten der Eltern zu akzeptieren.
-
-### 90_ab_wann_ist_man_erwachsen
-
-2206 Wörter / 7 Seiten
-"Ist Daniel schon erwachsen?" - "Na ja, mit 18 ist er Volljährig. Aber ab wann jemand Erwachsen ist, das ist schwer zu sagen."
-
-* Lieder und Zitate
-Betrachtet das Wesen des Erwachsenseins und die Erkenntnis, dass auch Erwachsene, einschließlich Eltern, unsicher und unvollkommen sind. Erforscht das Durchschauen von Fassaden bei anderen Menschen und den Unterschied zwischen Authentizität und Schauspielerei.
-
-### 99_geborgenheit
-
-1758 Wörter / 6 Seiten
-"Wir haben über Geborgenheit geredet. Viele Kinder haben gesagt, sie fühlen sich mit ihrem Kuscheltier geborgen, nur ich und Bea und Lukas haben gesagt, dass wir uns bei unseren Müttern so fühlen."
-
-* Merle, 7 Jahre
-
-* Ein Traum von Geborgenheit
-* Der Hunger nach Nähe und die Angst davor
-Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit der Angst, erdrückt oder verlassen zu werden. Ein Traum wird zum Spiegel für unerfüllte Bedürfnisse nach bedingungsloser Annahme. Die Autorin erkundet, wie frühe Bindungserfahrungen die gegenwärtige Fähigkeit, sich fallen zulassen, beeinflussen, und findet kleine Momente der Entspannung in alltäglichen Kämpfen mit Nähe.
-
-### 99_Verzeihen
-
-3847 Wörter / 13 Seiten
-"Früher bist Du nach einem Streit zu mir gekommen und hast Dich zu erst entschuldigt. Aber jetzt machst Du es immer weniger. Immer muss ich mich zuerst entschuldigen!"
-
-* Merle, 10 Jahre
-
-* Eine Krankheit und plötzliche Nähe
-* Ich sah ihn als Opfer seiner selbst
-* Die Idealisierung aufgeben
-* Verwundbarkeit verbindet
-* Nicht jeder zeigt Reue auf die gleiche Weise
-Die Autorin erforscht Verzeihen als langwierigen inneren Prozess, nicht als schnelle Absolution. Anhand von Beispielen mit beiden Eltern zeigt sie, wie echtes Verzeihen Verwundbarkeit, Authentizität und das Loslassen von idealisierten Bildern erfordert. Sie reflektiert, dass Erwachsenwerden bedeutet, die Eltern als unvollkommene Menschen zu sehen und zu akzeptieren, dass ihre Liebe manchmal nicht ausreicht für das, was wir brauchen. Ein Essay über innere Haltung, Ohnmacht und graduelles Loslassen.
+Eine Sammlung persönlicher Essays und Reflexionen in Form von Briefen an die Tochter der Autorin, Merle, die Themen wie Mutterschaft, Kindheitstraumata und generationsübergreifende Beziehungen erkundet.
 
 ## Themen
 
@@ -203,3 +18,301 @@ Die Autorin erforscht Verzeihen als langwierigen inneren Prozess, nicht als schn
 Die Sammlung bietet einen intimen Einblick in das Durchbrechen negativer familiärer Muster unter Anerkennung der Komplexität von Eltern-Kind-Beziehungen.
 
 Gesamt (Kapitel 01–99): 43.146 Wörter / ca. 144 Seiten
+
+## Kapitelzusammenfassungen
+
+### Vorwort — 00_Vorwort.md
+
+**Umfang:** 290 Wörter / 1 Seiten
+**Zitat:** "Wenn wir unsere Geschichten teilen, erkennen wir, dass wir nicht allein sind. Und genau das ist heilsam."
+
+**Kapitelüberschriften:**
+
+* Mutter beobachtet die Ähnlichkeit
+* Projektion und verdrängte Eigenschaften
+* Angst sie wird wie ich
+
+Die Autorin reflektiert über die Beobachtung ihrer Mutter, dass ihre Tochter ähnlich verträumt und abgelenkt sei wie sie selbst. Sie diskutiert, wie Eltern ihre eigenen Eigenschaften auf ihre Kinder projizieren und ihre anfänglichen Ängste, ihre Tochter könnte "wie sie" werden.
+
+### An Merle — 01_An_Merle.md
+
+**Umfang:** 5609 Wörter / 19 Seiten
+**Zitat:** "Manchmal kann ich Dich ganz schön nerven, stimmt's?"
+
+**Kapitelüberschriften:**
+
+* Ich darf meine Stimme nicht erheben! - Wie fand ich meine Stimme wieder?
+  * Zahnärztin
+  * An den Haaren ziehen im Bus
+  * Schwanger
+  * Stockkampf und Schreien
+* Wunsch gesehen/erhört/wahrgenommen zu werden
+  * Empfängnis - Kinderwunsch
+  * Detmold - Einleitung
+  * Rosenberg und "Liebe"
+  * Zu viel Fürsorge
+  * Echte Aufmerksamkeit: gesehen werden
+* Ich nehme Andere wahr
+  * Jonas und der Abschied
+* Heilung durch Verständnis
+  * Liebe ist nicht immer gleich
+* Erste Veränderungen: Grenzen setzen + zuhören
+  * Detmold - Abendessen bei Karin
+  * Detmold - Weggelaufen
+  * Ich mache es anders
+
+Erforscht Paradoxien in Eltern-Kind-Beziehungen durch verschiedene Geschichten, einschließlich eines Zahnarztbesuchs und Schwangerschaftserinnerungen. Diskutiert verschiedene Ausdrucksformen von Liebe, die Herausforderungen der Elternschaft und wie die Autorin bewusst anders erziehen möchte als ihre Mutter.
+
+### Deine Oma, meine Mutter — 02_fuer_Mutter.md
+
+**Umfang:** 4705 Wörter / 16 Seiten
+**Zitat:** "Ich weiß, dass sie es nicht absichtlich gemacht hat. Aber jetzt bin ich sauer, weil es so weh tut. Aber sie soll noch nicht gehen, später bin ich dann nicht mehr sauer auf sie, das will ich ihr noch sagen"
+
+**Kapitelüberschriften:**
+
+* Zwei Mütter
+* In Frage stellen
+* Freude und Spaß
+* Die Oma
+* Erste Mal geweint
+* Verständnis - Gesehen werden
+Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer Mutter. Beschreibt wie sich ihre Wahrnehmung ihrer Mutter verändert hat, ihre Kindheitserfahrungen mit Kontrolle und Distanz, und wie Kommunikation und gegenseitiges Verständnis zur Heilung führen.
+
+### Der Tag an dem ich aufhörte unsichtbar zu sein - Januar 2020 — 03_Dunkelheit_hmm.md
+
+**Umfang:** 2457 Wörter / 8 Seiten
+**Zitat:** --- Zitat fehlt ---
+
+**Kapitelüberschriften:**
+
+* Die traurige Melodie der Depression
+* Das Lied und die Farbe Braun
+* Der Wendepunkt: Die Stille
+* Frühere Anfänge der Heilung
+* Unbewusste Überwindung morgens
+* Flucht in Träume und Geschichten  
+* Dunkelheit in Jugend und Ausdrucksform
+* Zwischen Positivismus und Wahrheit
+* Frankenstein und der eigene Schmerz
+* Unsicherheit und Distanz bewältigen
+* Verantwortung und absolute Kontrolle
+* Unter der Decke bleiben wollen
+* Erleichterung ohne Verantwortung
+* Fantasien von Trauer und Bedeutsamkeit
+* Trauer ohne Begleitung erleiden
+* Die Grenzen der heutigen Mutterschaft
+* Der transformative Morgen: Frohes Erwachen
+* Der Alltag nach der Heilung
+
+### Neuanfang - November 2012 — 05_Alleine_hmm.md
+
+**Umfang:** 1941 Wörter / 6 Seiten
+**Zitat:** "Sie schaut mich nicht an, wenn ich mit ihr rede. Vielleicht mag sie mich nicht. Sie redet auch kaum mit mir."
+
+**Kapitelüberschriften:**
+
+* Neue Wohnung, alte Verletzungen
+* Träume von idealen Paarbeziehungen
+* Mit Noah: Nähe und Unsichtbarkeit
+* Nähe nur vor Publikum
+* Selbstbehauptung lernen
+* Kindheitsmuster: Unsichtbarkeit
+* Angst der Vergessenheit
+* Ablehnung und ehrliche Grenzen
+* Bewusste Distanzen schaffen
+* Unsichtbarkeit in Filmen und Geschichten
+
+Detaillierte Schilderung einer Phase großer Einsamkeit nach dem Umzug und einer Trennung. Die Autorin beschreibt das Gefühl, unsichtbar zu sein, und wie dieses Muster schon aus der Kindheit bekannt ist.
+Der Text verknüpft Alltagsszenen mit therapeutischen Reflexionen und zeigt Wege zu Selbstwert und neu gesetzten Grenzen.
+Er betont die langsame Arbeit des Wiederaufbaus sozialer Beziehungen und das Finden von stabilen Freundschaften.
+
+### Wahrer Trost — 05_wahrer_trost.md
+
+**Umfang:** 1457 Wörter / 5 Seiten
+**Zitat:** "Ich gebe Dir einen Kuss der heilt 20%. Dann kannst Du mehrere bekommen."
+
+**Kapitelüberschriften:**
+
+* Angst in der Mutter-Kind-Kur
+* Merles Trost in der Nacht
+* Therapeutische Erkenntnis
+* Die Grenze des eigenen Trostbedürfnisses
+* Echter Trost bedeutet Präsenz
+* Schwierigkeit, präsent zu bleiben
+* Wut konkret ermöglichen
+* Selbstkontrolle und Akzeptanz
+* Das Geschenk des Gesehenwerdens
+
+Bericht über das Erleben von Trost: was es bedeutet, wirklich bei einem Menschen zu sein, ohne sofort Lösungen anzubieten.
+Die Autorin reflektiert, wie eigene Verletzungen das Trösten erschweren und wie Präsenz, Geduld und Entschuldigungsbereitschaft heilend wirken.
+Konkrete Szenen (Mutter-Kind-Kur, Umgang mit Wut) illustrieren die Praxis des tröstenden Verhaltens.
+
+### Ich bin nicht gut genug — 06_nicht_gut_genug.md
+
+**Umfang:** 1087 Wörter / 4 Seiten
+**Zitat:** "Ich kann ganz schön nerven, stimmt's?"
+
+**Kapitelüberschriften:**
+
+* Trigger aus alten Botschaften
+* Meine inneren Glaubenssätze
+* Der Doublebind meiner Mutter
+* Entwicklung meiner Mutter
+* Innere Konflikte und verdeckte Botschaften
+* Der innere Schweinehund und Realität
+* Flexible Selbstbilder und neue Sätze
+
+Untersucht Gefühle der Unzulänglichkeit und deren Ursprünge in Kindheitsbotschaften von Eltern und Autoritätsfiguren, und wie diese sich im Erwachsenenleben manifestieren.
+
+### Das Bild am Kühlschrank — 10_Dicksein.md
+
+**Umfang:** 1394 Wörter / 5 Seiten
+**Zitat:** "Ich mag mich nicht im Badeanzug vor allen anderen Kindern zeigen"
+
+**Kapitelüberschriften:**
+
+* Traum - Stillen
+* Ich bin die Dicke
+* Fotoalbum (nicht dick)
+* Dicker werden
+* Foto am Kühlschrank
+* Dicke und ekel
+* Jesper Juul
+* Tante Erika
+* Neid - Luise W.
+* Merle findet mich "kuschelig"
+
+Persönliche Auseinandersetzung mit Körperbild, Scham und familiären Botschaften. Der Text verbindet Kindheitserinnerungen und Träume mit der heutigen Selbstwahrnehmung.
+Statt radikaler Diätforderungen geht es um das Verstehen von Bedürfnissen, Akzeptanz und achtsamen Umgang mit Essverhalten.
+
+### Vater — 20_Einsam.md
+
+**Umfang:** 1137 Wörter / 4 Seiten
+**Zitat:** "Wenn Du an mich denkst, dann kriege ich es nicht mit"
+
+**Kapitelüberschriften:**
+
+* Vergessener Geburtstag
+* Unerreichbarer Vater
+* Als Kind: Schuldgefühle übernehmen
+* Mein Schutz in der Unsichtbarkeit
+* Muster mit Noah: Einsamkeit und Wut
+* Angst um Merles Träumerei
+
+Konzentriert sich auf die Beziehung zu ihrem Vater und Gefühle der Unsichtbarkeit und Einsamkeit, besonders an Geburtstagen und besonderen Anlässen.
+
+### Scheinheilig und verlogen — 30_verlogen.md
+
+**Umfang:** 4606 Wörter / 15 Seiten
+**Zitat:** "Bin ich auch so schlimm wie Ramon?"
+
+**Kapitelüberschriften:**
+
+* (Es sind alles Arschlöcher)
+* Eltern als Gefahr, Andere als Bedrohung
+* Wut verdrängen und ihre destruktive Kraft
+* Familie zerrissen: Opfer und Täter
+* Suche nach authentischen Vorbildern
+* Psychomagie und symbolische Machtübernahme
+* Sichtbarkeit und Unsichtbarkeit in der Welt
+* Toxische Maskulinität und erlaubte Gefühle
+* Vater und Mutter: unterschiedliche Heilwege
+* Meine Mutter: großzügig, aber mit hohen Ansprüchen
+* Drohungen, Grenzen und das Kind schützen
+* Deine Rebellion und meine Versuche, Grenzen zu setzen
+* Angst vor meinem Zorn und meine Hilflosigkeit
+* Frühchen-Trauma und unbewusste Schuldgefühle
+* Liebe aussprechen und Fehler zugeben
+* Mein Konfliktverhalten und deine Direktheit
+* Worte geben für Gefühle und eigenen Zorn akzeptieren
+
+Eingehende Auseinandersetzung mit Authentizität, Misanthropie und versteckten Gefühlen. Die Autorin erforscht ihre Verachtung für die Menschheit, ihre Strategien zur Selbstschutz durch Lügen und Lächeln, und wie diese Muster ihre Erziehung und Beziehungen prägen. Ein wichtiges Kapitel über das Sichtbarmachen von Gefühlen, die sonst verborgen bleiben.
+
+### Krankenhaus 1 — 40_Frühchen.md
+
+**Umfang:** 889 Wörter / 3 Seiten
+**Zitat:** "Was wenn ihr in der Nacht etwas passiert und wir merken es nicht?"
+
+**Kapitelüberschriften:**
+
+* Familienzimmer
+* Glückliche Schwangerschaft und Angst vor Mutterschaft
+* Flashback: Beinahe-Ertrinken
+* Verantwortungsangst
+* Nur-Schultern-Umarmung
+* Balance: ich-wir
+
+Ernste, unmittelbare Schilderung der Tage im Krankenhaus mit einem Frühchen: Angst, Überforderung und kleine Hoffnungsmomente.
+Der Text reflektiert Flashbacks, die Angst vor Verantwortung und die Notwendigkeit, Grenzen zu setzen und Balance zwischen Fürsorge und Selbstschutz zu finden.
+Konkrete Metaphern (z. B. das Bild der Umarmung als „A“) verknüpfen Einsicht mit praktischen Strategien für Nähe ohne Erstickung.
+
+### Krankenhaus 2 — 45_krankenhaus.md
+
+**Umfang:** 668 Wörter / 2 Seiten
+**Zitat:** "Meine Tochter möchte mich nicht mehr besuchen. Sie hat Angst vor mir. Selbst ich erkenne mich so nicht."
+
+### Ich will nicht in die Schule — 50_Schule.md
+
+**Umfang:** 1113 Wörter / 4 Seiten
+**Zitat:** "Die Schule ist doof. Wir haben viel zu wenig Ferien"
+
+Details über die Herausforderungen, Kinder zur Schule zu bringen und Morgenroutinen zu bewältigen, reflektiert über Geduld und Erziehungskämpfe.
+
+### Wut, Frust und Ohnmacht — 60_Wut_und_Frust.md
+
+**Umfang:** 3123 Wörter / 10 Seiten
+**Zitat:** "Aber ich bin nicht wütend auf das Kissen!"
+
+Erforscht den Umgang mit Wut, Therapieerfahrungen und das Erlernen gesünderer Wege im Umgang mit Emotionen.
+
+### Nichts als die Wahrheit — 70_die_wahrheit.md
+
+**Umfang:** 450 Wörter / 2 Seiten
+**Zitat:** "Wir schreiben nicht, dass er ein guter Opa war, denn das stimmt nicht. Aber wir können schreiben, dass wir ihn vermissen"
+
+Diskutiert Ehrlichkeit und Wahrheitsfindung in Beziehungen, insbesondere in Bezug auf schwierige Familiendynamiken und Tod.
+
+### Brief an eine Freundin — 80_was_ich_dir_sagen_wollte.md
+
+**Umfang:** 1018 Wörter / 3 Seiten
+**Zitat:** "...und manchmal schäme ich mich für etwas was Du tust, Mama. Z.B. wenn Du fremde Menschen auf der Straße ansprichst und ein Witz machst."
+
+Reflektiert über Scham, öffentliches Verhalten und die Herausforderung, die Unvollkommenheiten der Eltern zu akzeptieren.
+
+### Erwachsen sein — 90_ab_wann_ist_man_erwachsen.md
+
+**Umfang:** 791 Wörter / 3 Seiten
+**Zitat:** "Ist Daniel schon erwachsen?" - "Na ja, mit 18 ist er Volljährig. Aber ab wann jemand Erwachsen ist, das ist schwer zu sagen."
+
+**Kapitelüberschriften:**
+
+* Lieder und Zitate
+
+Betrachtet das Wesen des Erwachsenseins und die Erkenntnis, dass auch Erwachsene, einschließlich Eltern, unsicher und unvollkommen sind. Erforscht das Durchschauen von Fassaden bei anderen Menschen und den Unterschied zwischen Authentizität und Schauspielerei.
+
+### Geborgenheit — 95_geborgenheit.md
+
+**Umfang:** 1077 Wörter / 4 Seiten
+**Zitat:** "Wir haben über Geborgenheit geredet. Viele Kinder haben gesagt, sie fühlen sich mit ihrem Kuscheltier geborgen, nur ich und Bea und Lukas haben gesagt, dass wir uns bei unseren Müttern so fühlen."
+
+**Kapitelüberschriften:**
+
+* Ein Traum von Geborgenheit
+* Der Hunger nach Nähe und die Angst davor
+
+Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit der Angst, erdrückt oder verlassen zu werden. Ein Traum wird zum Spiegel für unerfüllte Bedürfnisse nach bedingungsloser Annahme. Die Autorin erkundet, wie frühe Bindungserfahrungen die gegenwärtige Fähigkeit, sich fallen zulassen, beeinflussen, und findet kleine Momente der Entspannung in alltäglichen Kämpfen mit Nähe.
+
+### Verzeihen — 99_Verzeihen.md
+
+**Umfang:** 2357 Wörter / 8 Seiten
+**Zitat:** "Früher bist Du nach einem Streit zu mir gekommen und hast Dich zu erst entschuldigt. Aber jetzt machst Du es immer weniger. Immer muss ich mich zuerst entschuldigen!"
+
+**Kapitelüberschriften:**
+
+* Eine Krankheit und plötzliche Nähe
+* Ich sah ihn als Opfer seiner selbst
+* Die Idealisierung aufgeben
+* Verwundbarkeit verbindet
+* Nicht jeder zeigt Reue auf die gleiche Weise
+
+Die Autorin erforscht Verzeihen als langwierigen inneren Prozess, nicht als schnelle Absolution. Anhand von Beispielen mit beiden Eltern zeigt sie, wie echtes Verzeihen Verwundbarkeit, Authentizität und das Loslassen von idealisierten Bildern erfordert. Sie reflektiert, dass Erwachsenwerden bedeutet, die Eltern als unvollkommene Menschen zu sehen und zu akzeptieren, dass ihre Liebe manchmal nicht ausreicht für das, was wir brauchen. Ein Essay über innere Haltung, Ohnmacht und graduelles Loslassen.
