@@ -17,7 +17,7 @@ Eine Sammlung persönlicher Essays und Reflexionen in Form von Briefen an die To
 
 Die Sammlung bietet einen intimen Einblick in das Durchbrechen negativer familiärer Muster unter Anerkennung der Komplexität von Eltern-Kind-Beziehungen.
 
-Gesamt (Kapitel 01–99): 36.832 Wörter / ca. 124 Seiten
+Gesamt (Kapitel 01–99): 38.279 Wörter / ca. 135 Seiten
 
 ## Kapitelzusammenfassungen
 
@@ -84,7 +84,7 @@ Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer M
 
 ### Der Tag an dem ich aufhörte unsichtbar zu sein - Januar 2020 — 03_Dunkelheit_hmm.md
 
-**Umfang:** 2457 Wörter / 8 Seiten
+**Umfang:** 2457 Wörter / 9 Seiten
 **Zitat:** --- Zitat fehlt ---
 
 **Kapitelüberschriften:**
@@ -108,9 +108,9 @@ Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer M
 * Der transformative Morgen: Frohes Erwachen
 * Der Alltag nach der Heilung
 
-### Neuanfang - November 2012 — 05_Alleine_hmm.md
+### Neuanfang - November 2012 — 04_Alleine_hmm.md
 
-**Umfang:** 1941 Wörter / 6 Seiten
+**Umfang:** 1941 Wörter / 7 Seiten
 **Zitat:** "Sie schaut mich nicht an, wenn ich mit ihr rede. Vielleicht mag sie mich nicht. Sie redet auch kaum mit mir."
 
 **Kapitelüberschriften:**
@@ -212,7 +212,7 @@ Konzentriert sich auf die Beziehung zu ihrem Vater und Gefühle der Unsichtbarke
 
 ### Scheinheilig und verlogen — 30_verlogen.md
 
-**Umfang:** 4606 Wörter / 15 Seiten
+**Umfang:** 4712 Wörter / 16 Seiten
 **Zitat:** "Bin ich auch so schlimm wie Ramon?"
 
 **Kapitelüberschriften:**
@@ -229,6 +229,7 @@ Konzentriert sich auf die Beziehung zu ihrem Vater und Gefühle der Unsichtbarke
 * Meine Mutter: großzügig, aber mit hohen Ansprüchen
 * Drohungen, Grenzen und das Kind schützen
 * Deine Rebellion und meine Versuche, Grenzen zu setzen
+* Gebrüll an der Bushaltestelle
 * Angst vor meinem Zorn und meine Hilflosigkeit
 * Frühchen-Trauma und unbewusste Schuldgefühle
 * Liebe aussprechen und Fehler zugeben
@@ -259,8 +260,12 @@ Konkrete Metaphern (z. B. das Bild der Umarmung als „A“) verknüpfen Einsich
 
 ### Krankenhaus 2 — 45_krankenhaus.md
 
-**Umfang:** 668 Wörter / 2 Seiten
+**Umfang:** 747 Wörter / 3 Seiten
 **Zitat:** "Meine Tochter möchte mich nicht mehr besuchen. Sie hat Angst vor mir. Selbst ich erkenne mich so nicht."
+
+**Kapitelüberschriften:**
+
+* Keine Kompromisse um die Gesundheit
 
 ### Ich will nicht in die Schule — 50_Schule.md
 
@@ -272,23 +277,45 @@ Details über die Herausforderungen, Kinder zur Schule zu bringen und Morgenrout
 
 ### Wut, Frust und Ohnmacht — 60_Wut_und_Frust.md
 
-**Umfang:** 3123 Wörter / 10 Seiten
+**Umfang:** 3367 Wörter / 12 Seiten
 **Zitat:** "Aber ich bin nicht wütend auf das Kissen!"
+
+**Kapitelüberschriften:**
+
+* Geduld mit der Veränderung
+* Ein Boxsack sein für mein Kind
+* Grenzen wahrnehmen und aussprechen
+* Trauer und Ärger begleiten
+* Präsenz statt Ratschläge
+* Die nächtliche Wut
+* Abgelehnt statt unterstützt
+* Echos aus der Vergangenheit
+  * Die Doktor-Diskussion
+  * Entscheidungen treffen
+  * Gesehen werden
 
 **Inhalt:**
 Erforscht den Umgang mit Wut, Therapieerfahrungen und das Erlernen gesünderer Wege im Umgang mit Emotionen.
 
 ### Nichts als die Wahrheit — 70_die_wahrheit.md
 
-**Umfang:** 450 Wörter / 2 Seiten
+**Umfang:** 1468 Wörter / 5 Seiten
 **Zitat:** "Wir schreiben nicht, dass er ein guter Opa war, denn das stimmt nicht. Aber wir können schreiben, dass wir ihn vermissen"
+
+**Kapitelüberschriften:**
+
+* Harmlose Lügen
+* Wahrheiten ertragen
+* Vater schon immer vermisst
+* Selbstbetrug
+* Schokolade oder doch lieber eine Umarmung
 
 **Inhalt:**
 Diskutiert Ehrlichkeit und Wahrheitsfindung in Beziehungen, insbesondere in Bezug auf schwierige Familiendynamiken und Tod.
 
 ### Brief an eine Freundin — 80_was_ich_dir_sagen_wollte.md
 
-**Umfang:** 1018 Wörter / 3 Seiten
+**Umfang:** 1018 Wörter / 4 Seiten
 **Zitat:** "...und manchmal schäme ich mich für etwas was Du tust, Mama. Z.B. wenn Du fremde Menschen auf der Straße ansprichst und ein Witz machst."
 
 **Inhalt:**
@@ -316,7 +343,7 @@ Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit de
 
 ### Verzeihen — 99_Verzeihen.md
 
-**Umfang:** 3020 Wörter / 10 Seiten
+**Umfang:** 3020 Wörter / 11 Seiten
 **Zitat:** "Früher bist Du nach einem Streit zu mir gekommen und hast Dich zu erst entschuldigt. Aber jetzt machst Du es immer weniger. Immer muss ich mich zuerst entschuldigen!"
 
 **Kapitelüberschriften:**
