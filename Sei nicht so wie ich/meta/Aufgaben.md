@@ -26,3 +26,17 @@ Beobachtung -> Einsicht -> leiser Zweifel (kein Abschluss)
 
 **Transformation:** Die innere Haltung verändert sich. Eltern sind leider auch nur Menschen. Verzeihen als Verschiebung der Perspektive.
 Aus der Abhängigkeit und Unsicherheit in die Eigenverantwortung und Lebendigkeit (mehr innere Ruhe und Freiheit).
+
+---
+
+## Neue Kapitel
+
+### Status: Strukturiert mit Überschriften ✓
+
+**Aufgaben für Überarbeitung:**
+- [ ] Zielgruppen-Konsistenz checken: passt die philosophische Tiefe zum Rest des Buches?
+- [ ] Länge überprüfen: Ist 25+ Seiten nicht zu lang für ein Kapitel?
+- [ ] Amma-Beschreibung: Ist die Kritik am Guru-Kult zu hart oder angemessen?
+- [ ] Diskrepanz aufzeigen: Zeigt das Kapitel ausreichend die Spannung zwischen Idealform und Realität?
+- [ ] Körperkontakt-Thema: Schließt dieses Kapitel logisch an die vorherigen an?
+- [ ] Abschluss überprüfen: Endet es mit einer offenen Frage oder einer Erkenntnis?

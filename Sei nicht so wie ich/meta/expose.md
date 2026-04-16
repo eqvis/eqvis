@@ -61,6 +61,7 @@ Wie können wir die unbewussten Muster unserer eigenen Kindheit erkennen, um sie
 
 - **00 – Vorwort:** Die zentrale Angst: "Meine Tochter könnte wie ich werden"
 - **05 – An Merle:** **PREVIEW DES BUCHES** - Hier bin ich jetzt: Stimme finden, Grenzen setzen, Authentizität, Schwangerschaft als Wendepunkt, Lernprozesse. Ein Blick auf das gesamte Buch im Kleinen.
+- **07 – Meine Stimme:** **DIE KONKRETE STORY** - Wie ich die Stimme fand: Von aufgegebenen Projekten über Künstler-Eltern bis zur Myom-OP als körperliches Symbol der Befreiung. Endlich Freundinnen, endlich Unterstützung, endlich dieses Buch.
 
 ---
 
@@ -102,10 +103,11 @@ Wie können wir die unbewussten Muster unserer eigenen Kindheit erkennen, um sie
 
 *Der neue Weg: nicht perfekt, sondern ehrlich*
 
-- **60 – Was ich Dir sagen wollte:** Tiefe Erkenntnisse und Lektionen teilen.
-- **63 – Ab wann ist man erwachsen?:** Autonomie, Verantwortung und Ambivalenztoleranz
-- **66 – Geborgenheit:** Einen sicheren Raum für Gefühle schaffen (was ich nie hatte)
-- **69 – Verzeihen:** Nicht meinen Eltern – mir selbst verzeihen
+- **85 – Was ich Dir sagen wollte:** Tiefe Erkenntnisse und Lektionen teilen.
+- **87 – Mein Darshan bei Amma:** Von Gurus zur Selbstverantwortung – Das Erkennen von der Abhängigkeit zu echter Reife. Körperkontakt, gegenseitige Liebe und das Loslassen der Idealisierung.
+- **90 – Ab wann ist man erwachsen?:** Autonomie, Verantwortung und Ambivalenztoleranz
+- **95 – Geborgenheit:** Einen sicheren Raum für Gefühle schaffen (was ich nie hatte)
+- **99 – Verzeihen:** Mir selbst verzeihen - und meinen Eltern
 
 ---
 
@@ -117,15 +119,14 @@ Wie können wir die unbewussten Muster unserer eigenen Kindheit erkennen, um sie
 - **Briefe statt Belehrung:** Direkte Ansprache an die Tochter schafft emotionale Nähe
 - **Psychologisch fundiert, aber nicht akademisch:** Tiefgang ohne Fachjargon
 - **Show don't tell:** Konkrete Szenen statt allgemeiner Aussagen
-  - Beispiel: Die Beschreibung der Hand-Fuß-Mund-Infektion als Metapher für Grenzen-Konflikte zwischen Generationen
 
 ### Inhaltliche Tiefe
 
-- **Generationenbogleich:** Konkrete Vergleiche zwischen Mutter-Tochter-Dynamik (Autorin und ihre Mutter) vs. Autorin und ihre Tochter
+- **Generationenvergleich:** Konkrete Vergleiche zwischen Mutter-Tochter-Dynamik (Autorin und ihre Mutter vs. Autorin und ihre Tochter)
 - **Ressourcen für Leser:innen:** Praktische Übungen aus der Therapie (z.B. die Schiebe-Übung bei Therapeutin)
-- **Philosophische Dimension:** Fragen zu Ambivalenz, Verzeihen, Authentizität
+- **Philosophische Dimension:** Fragen zu Ambivalenz, Verzeihen, Authentizität, Bedeutung von "Liebe"
 
-### Emotionale Arc
+### Emotionaler Bogen
 
 - Startet mit Ängstigung und Scham
 - Endet mit Hoffnung, ohne dabei naiv zu werden
@@ -135,30 +136,29 @@ Wie können wir die unbewussten Muster unserer eigenen Kindheit erkennen, um sie
 
 ## 7. MARKTPOSITION
 
-### Vergleichstitel (Comparable Titles)
+### Ähnliche Werke (Vergleichstitel)
 
 - "The Body Keeps the Score" von Bessel van der Kolk (Trauma-Verarbeitung)
-- "Vier Wünsche" / "The Gifts of Imperfection" von Brené Brown (Verletzlichkeit als Stärke)
-- "Du schuldest mir nichts" / "The Adult Begins Today" von verschiedenen Autor:innen (Breaking cycles)
-- "Mutter Mythos Wahrheit" / Genre-spezifische Mütter-Literatur
+- "The Gifts of Imperfection" von Brené Brown (Verletzlichkeit und Authentizität)
+- "Das Kind in mir muss Heimat finden" von Stefanie Stahl (Unbewusste Kindheitsmuster erkennen und heilen)
+- "Gewaltfreie Kommunikation" von Marshall B. Rosenberg (Authentische und liebevolle Kommunikation in Beziehungen)
 
 ### Besonderheit im Markt
 
 - **Deutschsprachiger Markt:** Wenige authentische, verletzliche Bücher über generationenübergreifende Heilung in Briefform
-- **Tonalität:** Weder Self-Help-Ratgeber noch reine Autobiografie, sondern reflektierter Essay
+- **Schreibweise & Ton:** Weder Ratgeber zur Selbsthilfe noch reine Autobiografie, sondern reflektierter Essay
 - **Zielgruppe:** Therapie-affine, psychologisch bewusste Leser:innen (wachsender Markt)
 
 ---
 
 ## 8. AUTORIN-PROFIL
 
-**Fiktionales Profil** (basierend auf Manuskript):
-
-- Mutter von einer Tochter (Merle, ca. 7-10 Jahre)
-- 16+ Jahre eigene Therapieerfahrung
-- Ausbildung/Hintergrund in [zu definieren, je nach tatsächlichem Hintergrund]
-- Engagiert in Fragen von Bewusstwerdung und Familiengesundheit
-- Schreibt aus authentischer, nicht-akademischer Perspektive
+- **Person:** Mutter von einer Tochter (11 Jahre) / Bald 50 Jahre alt
+- **Hintergrund:** Physikstudium; 15+ Jahre intensive Körper- und Selbstreflexionsarbeit (u.a. Stockkampf, Achtsamkeit, Tanz, Gesang, Therapie)
+- **Praktische Erfahrung:** Leitung von Aufstellungsgruppen & Kreativen-Treffs
+- **Schreibweise:** Authentisch, verletzlich, nicht-akademisch – getragen von der Überzeugung, dass Heilung möglich ist und Generationentraumata unterbrochen werden können
+- **Publikationen:** Erste Buchveröffentlichung nach Jahrzehnten privaten Schreibens seit der Kindheit
+- **Vision:** Nächste Projekte u.a. Bilderbuch zu Selbstakzeptanz
 
 ---
 
@@ -170,10 +170,10 @@ Wie können wir die unbewussten Muster unserer eigenen Kindheit erkennen, um sie
 2. **Buchclubs & Lesegruppen:** Speziell für "Frauenliteratur" und Selbstreflexion
 3. **Eltern-Netzwerke & Online-Communities:** Parenting-Blogger, Eltern-Blogs
 4. **Social Media:** Besonders Instagram/TikTok mit emotional resonanten Zitaten
-5. **Podcast & Interview-Circuit:** Literatur, Psychologie, Elternschaft
+5. **Podcast & Interview-Runden:** Literatur, Psychologie, Elternschaft
 6. **Schulungseinrichtungen:** Weiterbildungen für Therapeut:innen, Coaching-Programme
 
-### Key Messages
+### Leitbotschaften
 
 - "Für alle, die ihre Kindheit nicht an ihre Kinder weitergeben wollen"
 - "Ehrlich. Verletzlich. Heilsam."
@@ -184,15 +184,15 @@ Wie können wir die unbewussten Muster unserer eigenen Kindheit erkennen, um sie
 ## 10. BESONDERHEITEN & VERKAUFSARGUMENTE FÜR VERLAG
 
 ✓ **Authentisch & selten:** Keine generische Ratgeber-Literatur
-✓ **Zeitgeist-passend:** Growing interest in intergenerational trauma, parenting mit Bewusstsein
-✓ **Cross-over Potenzial:** Psychologie + Literatur + Ratgeber
-✓ **Community-Potenzial:** Leserinen werden zu Multiplikatoren (Empfehlungen)
+✓ **Zeitgeist-passend:** Wachsendes Interesse an generationenübergreifendem Trauma und bewusstem Elternsein
+✓ **Grenzüberschreitendes Potenzial:** Psychologie + Literatur + Ratgeber
+✓ **Potenzial für Gemeinschaftsbildung:** Leserinnen werden zu Multiplikatoren (Empfehlungen)
 ✓ **Internationales Potenzial:** Thema ist universal, englische/weitere Übersetzungen denkbar
 ✓ **Langlebig:** Keine Trend-Literatur, wird langfristig rezipiert
 
 ---
 
-## 11. TIMELINE & STATUS
+## 11. ZEITPLAN & STATUS
 
 **Aktueller Status:**
 
@@ -200,9 +200,9 @@ Wie können wir die unbewussten Muster unserer eigenen Kindheit erkennen, um sie
 - Finalisierung angestrebt: [Datum einfügen]
 - Lektorat: Geplant nach Fertigstellung
 
-**Verlagsanfrage Timeline:**
+**Verlagsanfrage Zeitplan:**
 
-- Expose-Versand: Sofort
+- Exposé-Versand: Sofort
 - Manuskript-Auszüge: 2-4 Wochen
 - Komplettes Manuskript: [Datum]
 
