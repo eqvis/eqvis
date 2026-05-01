@@ -1,7 +1,7 @@
 # Krankenhaus 2
 
 "Meine Tochter möchte mich nicht mehr besuchen. Sie hat Angst vor mir. Selbst ich erkenne mich so nicht."  
-— *Ich, 43 Jahre*
+— *Ich, 46 Jahre*
 
 ## Keine Kompromisse um die Gesundheit
 

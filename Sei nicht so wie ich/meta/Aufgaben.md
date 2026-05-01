@@ -29,14 +29,99 @@ Aus der Abhängigkeit und Unsicherheit in die Eigenverantwortung und Lebendigkei
 
 ---
 
-## Neue Kapitel
+Checkliste
 
-### Status: Strukturiert mit Überschriften ✓
+PHASE 1: FERTIGSTELLUNG MANUSKRIPT (Nächste 4-6 Wochen)
 
-**Aufgaben für Überarbeitung:**
-- [ ] Zielgruppen-Konsistenz checken: passt die philosophische Tiefe zum Rest des Buches?
-- [ ] Länge überprüfen: Ist 25+ Seiten nicht zu lang für ein Kapitel?
-- [ ] Amma-Beschreibung: Ist die Kritik am Guru-Kult zu hart oder angemessen?
-- [ ] Diskrepanz aufzeigen: Zeigt das Kapitel ausreichend die Spannung zwischen Idealform und Realität?
-- [ ] Körperkontakt-Thema: Schließt dieses Kapitel logisch an die vorherigen an?
-- [ ] Abschluss überprüfen: Endet es mit einer offenen Frage oder einer Erkenntnis?
+PHASE 2: SELBST-LEKTORAT (2-3 Wochen)
+
+* [] Namen/Personen checken. Lea, Mark, Karin...
+* [] Struktur: Flow zwischen Kapiteln
+* [] Wiederholungen/Redundanzen: Stockkampf, Jonas...
+* [] Tonalität: Stimme, Zeit, Briefstiel
+* [] Trigger-Warnungen (?)
+* [] Leser-Avatar (Ideale Leserin) / Zielgruppenbeschreibung
+* [x] Normseiten erstellen (build_pdf.py)
+
+PHASE 3: EXTERNE FEEDBACKS (4-6 Wochen parallel)
+
+* [] Beta-Reader (2-3 Personen)
+  * 1 Therapeutin
+  * 1 Mutter mit Kind
+  * 1 Junge Frau in Selbstfindung
+* [] Feedback-Kriterien
+  * Passt die Länge?
+  * Befriedigendes Ende?
+  * Was fehlt?
+  * Was ist zu lang, langweilig oder verwirrend?
+  * Welche Kapitel sind zu kurz?
+  * Koherenz (in sich stimmig)
+  * Kann man sich in die ICH-Erzählerin hineinversetzen? Ist diese angenehm?
+  * Over-sharing / Zu-Intim
+  * Zu viel Ratgeber?
+* KI: "Troll" Angrifspunkte (ich)
+* KI: "Wenn Du meine Mutter wärst, was würde Dich verletzen?"
+* Leserunde im Internet?
+* Resension schreiben lassen (evtl. Buch geschenkt)
+
+PHASE 4: PROFESSIONELLES LEKTORAT (4-8 Wochen, kostet €800-2.000)
+
+* Wahl treffen: (Nur bei Selfpublishing)
+  * Gunky Lektorat (Struktur/Inhalt, €1.200-1.500)
+  * oder sprachliches Lektorat (Stil/Grammatik, €800-1.000)
+  * oder beide sequenziell
+* Zeitrahmen: Sollte VOR Verlag-Kontakt sein (maximal mit aktualisierter Fassung)
+
+PHASE 5: AGENT/VERLAG-STRATEGIE (PARALLEL)
+
+* Früh-Kontakt zu Agenten (jetzt oder in 2 Wochen)
+  * Email-Entwurf schreiben
+  * An Thomas Giesler + Viola Morass + Stephanie Freyer schicken
+  * Mit Exposure + Kapitel-Auszug (nicht komplett MS)
+* Parallel: Direktkontakte vorbereiten
+  * Anschreiben-Vorlage für Patmos/Kösel/Edition Nautilus
+  * Mit vollständigem MS in 8 Wochen senden
+
+PHASE 6: HANDWERK/PACKAGING
+
+* Klappentext schreiben (100-150 Wörter)
+  * Sollte zeigen: "Wer?", "Was?", "Warum sollte ich es lesen?"
+* Autorenbiografie zum Buch:
+  * Was Sie haben (ist okay)
+  * Aber evtl. noch ein Foto nötig? (Falls ja: professionell)
+* Trigger-Warnung + Inhaltsnote:
+  * Für die Verlagsprospekte
+  * z.B.: "Enthält Themen: Generationentrauma, Depression, Missbrauch (implizit)"
+
+PHASE 7: MARKETING-GRUNDLAGEN
+
+* ❌ Nicht geplant:
+  * Social-Media-Strategie (TikTok/Instagram mit Zitaten)
+  * Podcast-Pitch vorbereiten ("Warum ich dieses Buch schrieb")
+  * Therapeuten-Netzwerk aktivieren (für Mundpropaganda)
+  * Blog-Post-Serie (3-5 längere Essays aus dem Buch)
+  * Buchblogger suchen (KI)
+
+---
+
+TIMELINE:
+
+April 2026 (Jetzt):
+  → Letzte 20% schreiben
+  → Beta-Reader finden
+
+Mai 2026:
+  → Agenten anschreiben (mit Expose)
+  → Beta-Reader Feedback einholen
+  → Selbst-Lektorat
+
+Juni 2026:
+  → Professionelles Lektorat buchen
+  → Feedback-Reparaturen
+  
+Juli 2026:
+  → Finales MS fertig
+  → Agenten/Verlage mit vollständigem MS kontaktieren
+  
+Aug/Sept 2026:
+  → Verhandlungen

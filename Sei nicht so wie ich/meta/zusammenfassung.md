@@ -21,6 +21,7 @@ Gesamt (Kapitel 01–99): 38.279 Wörter / ca. 135 Seiten
 
 ## Kapitelzusammenfassungen
 
+
 ### Vorwort — 00_Vorwort.md
 
 **Umfang:** 290 Wörter / 1 Seiten
@@ -37,7 +38,7 @@ Die Autorin reflektiert über die Beobachtung ihrer Mutter, dass ihre Tochter ä
 
 ### An Merle — 05_An_Merle.md
 
-**Umfang:** 5609 Wörter / 19 Seiten
+**Umfang:** 5623 Wörter / 19 Seiten
 **Zitat:** "Manchmal kann ich Dich ganz schön nerven, stimmt's?"
 
 **Kapitelüberschriften:**
@@ -65,9 +66,28 @@ Die Autorin reflektiert über die Beobachtung ihrer Mutter, dass ihre Tochter ä
 **Inhalt:**
 Erforscht Paradoxien in Eltern-Kind-Beziehungen durch verschiedene Geschichten, einschließlich eines Zahnarztbesuchs und Schwangerschaftserinnerungen. Diskutiert verschiedene Ausdrucksformen von Liebe, die Herausforderungen der Elternschaft und wie die Autorin bewusst anders erziehen möchte als ihre Mutter.
 
+### Meine Stimme — 07_Meine_Stimme.md
+
+**Umfang:** 2355 Wörter / 8 Seiten
+**Zitat:** "Mich zu zeigen, heißt auch Position zu beziehen. Ich mache mich sichtbar und damit verbundbar"
+
+**Kapitelüberschriften:**
+
+* Buchprojekte aufgeben
+* Enthusiasmus endet in Sinnlosigkeit
+* Dieses Mal ist es anders
+* Billy Elliot: fehlende Unterstützung?
+* Bescheidenheit. Neid und Konkurrenz
+* Anderssein distanziert, egal ob zu viel oder zu wenig
+* Auf der Bühne: Im Mittelpunkt stehen
+* Erfahrungen teilen und Flow erleben
+
+**Inhalt:**
+Analysiert die Angst vorm anders sein. Prokrastination als Reaktion auf Trauma und Erziehung. Zeigt die Wechselwirkungen zwischen Angeberei, Neid, Bescheidenheit und Stolz auf. Die Freude am eigenen Können kann auch, insbesondere in der Kunst, mit anderen geteilt werden.
+
 ### Deine Oma, meine Mutter — 10_fuer_Mutter.md
 
-**Umfang:** 4705 Wörter / 16 Seiten
+**Umfang:** 4711 Wörter / 16 Seiten
 **Zitat:** "Ich weiß, dass sie es nicht absichtlich gemacht hat. Aber jetzt bin ich sauer, weil es so weh tut. Aber sie soll noch nicht gehen, später bin ich dann nicht mehr sauer auf sie, das will ich ihr noch sagen"
 
 **Kapitelüberschriften:**
@@ -82,9 +102,9 @@ Erforscht Paradoxien in Eltern-Kind-Beziehungen durch verschiedene Geschichten, 
 **Inhalt:**
 Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer Mutter. Beschreibt wie sich ihre Wahrnehmung ihrer Mutter verändert hat, ihre Kindheitserfahrungen mit Kontrolle und Distanz, und wie Kommunikation und gegenseitiges Verständnis zur Heilung führen.
 
-### Der Tag an dem ich aufhörte unsichtbar zu sein - Januar 2020 — 13_Dunkelheit_hmm.md
+### Die Farbe der Depression — 13_Dunkelheit_hmm.md
 
-**Umfang:** 2457 Wörter / 9 Seiten
+**Umfang:** 2973 Wörter / 10 Seiten
 **Zitat:** --- Zitat fehlt ---
 
 **Kapitelüberschriften:**
@@ -94,10 +114,11 @@ Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer M
 * Der Wendepunkt: Die Stille
 * Frühere Anfänge der Heilung
 * Unbewusste Überwindung morgens
-* Flucht in Träume und Geschichten  
+* Flucht in Träume und Geschichten
 * Dunkelheit in Jugend und Ausdrucksform
 * Zwischen Positivismus und Wahrheit
 * Frankenstein und der eigene Schmerz
+* Das beobachtende Ich – Depersonalisation und innere Spaltung
 * Unsicherheit und Distanz bewältigen
 * Verantwortung und absolute Kontrolle
 * Unter der Decke bleiben wollen
@@ -106,11 +127,10 @@ Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer M
 * Trauer ohne Begleitung erleiden
 * Die Grenzen der heutigen Mutterschaft
 * Der transformative Morgen: Frohes Erwachen
-* Der Alltag nach der Heilung
 
-### Neuanfang - November 2012 — 16_Alleine_hmm.md
+### Einsamkeit — 16_Alleine_hmm.md
 
-**Umfang:** 1941 Wörter / 7 Seiten
+**Umfang:** 2147 Wörter / 8 Seiten
 **Zitat:** "Sie schaut mich nicht an, wenn ich mit ihr rede. Vielleicht mag sie mich nicht. Sie redet auch kaum mit mir."
 
 **Kapitelüberschriften:**
@@ -133,13 +153,12 @@ Er betont die langsame Arbeit des Wiederaufbaus sozialer Beziehungen und das Fin
 
 ### Ich bin nicht gut genug — 19_nicht_gut_genug.md
 
-**Umfang:** 1087 Wörter / 4 Seiten
+**Umfang:** 1659 Wörter / 6 Seiten
 **Zitat:** "Ich kann ganz schön nerven, stimmt's?"
 
 **Kapitelüberschriften:**
 
 * Trigger aus alten Botschaften
-* Meine inneren Glaubenssätze
 * Der Doublebind meiner Mutter
 * Entwicklung meiner Mutter
 * Innere Konflikte und verdeckte Botschaften
@@ -151,7 +170,7 @@ Untersucht Gefühle der Unzulänglichkeit und deren Ursprünge in Kindheitsbotsc
 
 ### Das Bild am Kühlschrank — 22_Dicksein.md
 
-**Umfang:** 1394 Wörter / 5 Seiten
+**Umfang:** 1581 Wörter / 6 Seiten
 **Zitat:** "Ich mag mich nicht im Badeanzug vor allen anderen Kindern zeigen"
 
 **Kapitelüberschriften:**
@@ -164,7 +183,7 @@ Untersucht Gefühle der Unzulänglichkeit und deren Ursprünge in Kindheitsbotsc
 * Dicke und ekel
 * Jesper Juul
 * Tante Erika
-* Neid - Luise W.
+* Neid - Luise W
 * Merle findet mich "kuschelig"
 
 **Inhalt:**
@@ -187,6 +206,46 @@ Statt radikaler Diätforderungen geht es um das Verstehen von Bedürfnissen, Akz
 
 **Inhalt:**
 Konzentriert sich auf die Beziehung zu ihrem Vater und Gefühle der Unsichtbarkeit und Einsamkeit, besonders an Geburtstagen und besonderen Anlässen.
+
+### Krankenhaus 1 — 30_Fruehchen.md
+
+**Umfang:** 889 Wörter / 3 Seiten
+**Zitat:** "Was wenn ihr in der Nacht etwas passiert und wir merken es nicht?"
+
+**Kapitelüberschriften:**
+
+* Familienzimmer
+* Glückliche Schwangerschaft und Angst vor Mutterschaft
+* Flashback: Beinahe-Ertrinken
+* Verantwortungsangst
+* Nur-Schultern-Umarmung
+* Balance: ich-wir
+
+### Krankenhaus 2 — 33_krankenhaus.md
+
+**Umfang:** 747 Wörter / 3 Seiten
+**Zitat:** "Meine Tochter möchte mich nicht mehr besuchen. Sie hat Angst vor mir. Selbst ich erkenne mich so nicht."
+
+**Kapitelüberschriften:**
+
+* Keine Kompromisse um die Gesundheit
+
+### Wahrer Trost — 36_wahrer_trost.md
+
+**Umfang:** 1460 Wörter / 5 Seiten
+**Zitat:** "Ich gebe Dir einen Kuss der heilt 20%. Dann kannst Du mehrere bekommen."
+
+**Kapitelüberschriften:**
+
+* Angst in der Mutter-Kind-Kur
+* Merles Trost in der Nacht
+* Therapeutische Erkenntnis
+* Die Grenze des eigenen Trostbedürfnisses
+* Echter Trost bedeutet Präsenz
+* Schwierigkeit, präsent zu bleiben
+* Wut konkret ermöglichen
+* Selbstkontrolle und Akzeptanz
+* Jonas und der Abschied (2x)
 
 ### Scheinheilig und verlogen — 39_verlogen.md
 
@@ -217,29 +276,6 @@ Konzentriert sich auf die Beziehung zu ihrem Vater und Gefühle der Unsichtbarke
 **Inhalt:**
 Eingehende Auseinandersetzung mit Authentizität, Misanthropie und versteckten Gefühlen. Die Autorin erforscht ihre Verachtung für die Menschheit, ihre Strategien zur Selbstschutz durch Lügen und Lächeln, und wie diese Muster ihre Erziehung und Beziehungen prägen. Ein wichtiges Kapitel über das Sichtbarmachen von Gefühlen, die sonst verborgen bleiben.
 
-### Krankenhaus 1 — 30_Fruehchen.md
-
-**Umfang:** 889 Wörter / 3 Seiten
-**Zitat:** "Was wenn ihr in der Nacht etwas passiert und wir merken es nicht?"
-
-**Kapitelüberschriften:**
-
-* Familienzimmer
-* Glückliche Schwangerschaft und Angst vor Mutterschaft
-* Flashback: Beinahe-Ertrinken
-* Verantwortungsangst
-* Nur-Schultern-Umarmung
-* Balance: ich-wir
-
-### Krankenhaus 2 — 33_krankenhaus.md
-
-**Umfang:** 747 Wörter / 3 Seiten
-**Zitat:** "Meine Tochter möchte mich nicht mehr besuchen. Sie hat Angst vor mir. Selbst ich erkenne mich so nicht."
-
-**Kapitelüberschriften:**
-
-* Keine Kompromisse um die Gesundheit
-
 ### Ich will nicht in die Schule — 45_Schule.md
 
 **Umfang:** 1113 Wörter / 4 Seiten
@@ -250,7 +286,7 @@ Details über die Herausforderungen, Kinder zur Schule zu bringen und Morgenrout
 
 ### Wut, Frust und Ohnmacht — 48_Wut_und_Frust.md
 
-**Umfang:** 3367 Wörter / 12 Seiten
+**Umfang:** 3608 Wörter / 13 Seiten
 **Zitat:** "Aber ich bin nicht wütend auf das Kissen!"
 
 **Kapitelüberschriften:**
@@ -258,6 +294,7 @@ Details über die Herausforderungen, Kinder zur Schule zu bringen und Morgenrout
 * Geduld mit der Veränderung
 * Ein Boxsack sein für mein Kind
 * Grenzen wahrnehmen und aussprechen
+* Der innere Beobachter – Meditation und Selbstregulation
 * Trauer und Ärger begleiten
 * Präsenz statt Ratschläge
 * Die nächtliche Wut
@@ -345,7 +382,7 @@ Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit de
 
 ### Verzeihen — 99_Verzeihen.md
 
-**Umfang:** 3020 Wörter / 11 Seiten
+**Umfang:** 3220 Wörter / 11 Seiten
 **Zitat:** "Früher bist Du nach einem Streit zu mir gekommen und hast Dich zu erst entschuldigt. Aber jetzt machst Du es immer weniger. Immer muss ich mich zuerst entschuldigen!"
 
 **Kapitelüberschriften:**
@@ -357,7 +394,9 @@ Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit de
 * Nicht jeder zeigt Reue auf die gleiche Weise
 * Schritte zum Verzeihen ~ Trauerprozess
 * Innere Haltung
-* Kinderwünsche aufgeben
+* Wünsche aus der Kindheit aufgeben
+* Die Kunst der Enttäuschung
+* Mein Wunsch
 
 **Inhalt:**
-Die Autorin erforscht Verzeihen als langwierigen inneren Prozess, nicht als schnelle Absolution. Anhand von Beispielen mit beiden Eltern zeigt sie, wie echtes Verzeihen Verwundbarkeit, Authentizität und das Loslassen von idealisierten Bildern erfordert. Sie reflektiert, dass Erwachsenwerden bedeutet, die Eltern als unvollkommene Menschen zu sehen und zu akzeptieren, dass ihre Liebe manchmal nicht ausreicht für das, was wir brauchen. Ein Essay über innere Haltung, Ohnmacht und graduelles Loslassen.
+Die Autorin erforscht Verzeihen als langwierigen inneren Prozess, nicht als schnelle Absolution. Anhand von Beispielen mit beiden Eltern zeigt sie, wie echtes Verzeihen Verwundbarkeit, Authentizität und das Loslassen von idealisierten Bildern erfordert. Sie reflektiert, dass Erwachsenwerden bedeutet, die Eltern als unvollkommene Menschen zu sehen und zu akzeptieren, dass ihre Liebe manchmal nicht ausreicht für das, was wir brauchen. Nach all den Erkenntnissen endet das Buch mit einem kurzen Liebesbrief an die Tochter und den Wunsch "Dir soll es besser gehen als mir."

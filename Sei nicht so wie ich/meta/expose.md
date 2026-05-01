@@ -1,8 +1,8 @@
-# Arbeitstitel: Ein Boden für Deine Seele - Briefe an meine Tochter
+# Expose
 
-**Genre:** Literarisches Memoir / essayistische Gegenwartsprosa
+## Projekt Beschreibung
 
-**Umfang:** ca. 140 Seiten (Manuskript zu etwa 80 % abgeschlossen)
+**Titel: Ein Boden für Deine Seele - Briefe an meine Tochter**
 
 **Alternativtitel:**
 
@@ -10,11 +10,11 @@
 * Damit es leichter wird.
 * Als ich meine Stimme wiederfand.
 
-## Stand des Projekts
+**Genre:** Literarisches Memoir / essayistische Gegenwartsprosa
 
-Das Manuskript ist zu etwa 80 % abgeschlossen und umfasst derzeit rund 140 Seiten. Die Fertigstellung ist für Juni geplant.
+**Umfang:** ca. 140 Seiten (Manuskript zu etwa 80 % abgeschlossen)
 
----
+**Stand:** Das Manuskript ist zu etwa 80 % abgeschlossen und umfasst derzeit rund 140 Seiten. Die Fertigstellung ist für Juni geplant.
 
 ## Pitch
 
@@ -24,15 +24,7 @@ Während sie versucht, diese Erfahrungen zu erklären, wird deutlich, dass ihr S
 Das Buch folgt einer inneren Bewegung: von dem Wunsch, dass andere die eigenen Wunden schließen, hin zur Erkenntnis, dass keine Beziehung diese Leerstelle füllen kann.
 Es ist eine literarische Auseinandersetzung mit Verzeihen, Ambivalenz und der Frage, was es bedeutet, wirklich erwachsen zu sein.
 
-## Inhalt und Aufbau
-
-Ausgangspunkt ist ein Brief an die eigene Tochter. In dieser direkten Ansprache versucht die Erzählerin, ihre Erfahrungen einzuordnen und weiterzugeben, ohne sie zu wiederholen. Dabei verschränkt sich die Gegenwart mit Erinnerungen an die eigene Kindheit und die Beziehung zur Mutter.
-
-Im Verlauf des Buches zeigt sich, wie stark vergangene Verletzungen das eigene Denken und Handeln prägen. Alte Muster tauchen in neuen Situationen wieder auf – auch in der eigenen Rolle als Mutter. Die Erzählerin beginnt zu erkennen, dass ihre Erwartungen an andere – verstanden zu werden, Anerkennung zu erhalten, Heilung zu erfahren – selbst Teil der inneren Verstrickung sind.
-
-Mit zunehmender Klarheit verschiebt sich der Blick: Die Eltern verlieren ihre übermächtige Rolle und erscheinen als begrenzte, widersprüchliche Menschen. Verzeihen wird nicht als moralischer Akt dargestellt, sondern als Veränderung der Perspektive. Gefühle wie Liebe, Wut und Enttäuschung bleiben bestehen, aber sie verlieren ihren absoluten Anspruch und werden nicht konstant sondern dynamisch empfunden (Rosenberg).
-
-Das Buch mündet in eine Haltung, die nicht auf Auflösung, sondern auf Eigenverantwortung beruht. Erwachsensein zeigt sich hier nicht als Zustand, sondern als Fähigkeit, die eigene innere Realität zu tragen. Daraus entsteht eine neue Form von Freiheit – und die Möglichkeit, eine eigene Stimme zu entwickeln.
+Im Unterschied zu klassischen Memoirs oder Ratgebern verbindet dieses Buch literarische Prosa mit einer offenen, dialogischen Ansprache. Es bleibt nicht bei der individuellen Geschichte stehen, sondern macht die innere Bewegung und Ambivalenz menschlicher Beziehungen für Leser:innen unmittelbar erfahrbar – ohne einfache Lösungen, aber mit dem Mut zur eigenen Stimme.
 
 ## Themen und Kernfragen
 
@@ -57,8 +49,9 @@ Das Buch richtet sich an Leser:innen literarischer Gegenwartsliteratur, die sich
 
 Es steht in der Tradition essayistischer und autobiografisch geprägter Literatur, in der persönliche Erfahrung als Ausgangspunkt für eine allgemeinere Reflexion dient.
 
----
-
 ## Kurzvita
 
-Mayra Delgado Martín, 48 Jahre alt, ist Mutter einer Tochter, 11 Jahre. Sie ist sie als Kind eines zurück migrierten Gastarbeiters und einer deutschen Mutter in Granada (Spanien) zweisprachig aufgewachsen. Schon in der Schule hat sie sich gegen die "Brotlose Kunst" der selbstständigen Eltern entschieden und deshalb später Physik in Granada und München studiert. Sie arbeitet hauptberuflich als Softwareentwicklerin in Tübingen. Kreative Tätigkeiten (wie Malen, Schreiben, Keramik, Musik) sind in ihrem Leben nicht wegzudenken. Seit über fünfzehn Jahren betreibt sie intensive Körper- und Selbstreflexionsarbeit (u.a. Stockkampf, Achtsamkeit, Tanz, Gesang, Therapie). Nebenberuflich hat sie einige Kurse im Bereich Selbsterforschung und Kreativität geleitet. Nächste Projekte sind u.a. ein Bilderbuch zum Thema Selbstakzeptanz mit eigenen Illustrationen.
+Mayra Delgado Martín, 48 Jahre alt, ist Mutter einer Tochter. Nach Physikstudium in Granada (Spanien) und München arbeitet sie im IT-Bereich und beschäftigt sich seit vielen Jahren intensiv mit Selbsterforschung und Selbstentwicklung.
+Sie Schreibt aus dem Versuch heraus, persönliche Erfahrungen und Erkenntnisse in eine allgemeinere Form zu überführen und somit für andere zugänglich zu machen. In ihren Texten verbindet sie autobiografische Erfahrungen mit essayistischen Reflexionen über Verantwortung, Ambivalenz, innere Haltung und Authentizität.
+
+"Ein Boden für Deine Seele" ist ihr erstes Buchprojekt. Ein Bilderbuch zum Thema Selbstakzeptanz mit eigenen Illustrationen ist in Planung.

@@ -10,8 +10,9 @@ Zielgruppe:
   
 "Wenn es dich nicht berührt, dann berührt es auch andere nicht" (Robbie Williams!?)
 
-## Titel
+## Alternative Titel
 
+* Damit Du es besser hast: wie ich lernte mir selbst Halt zu geben um Dich halten zu können.
 * Als ich meine Stimme wieder fand.
 * Sei nicht so wie ich.
 * Damit es leichter wird: wie ich lernte, bei mir zu bleiben.
@@ -20,58 +21,60 @@ Zielgruppe:
 
 ### Bewusstsein nach Verletzung
 
-Auch wenn das alles stimmte, was diese Frau mir sagte, war ich liebenswert
+Auch wenn das alles stimmte, was diese Frau mir sagte, war ich liebenswert.
 
 ### Innere Konflikte
 
-* Fahren mit angezogener Handbremse: Angst vs. Initiative (3 vs. 1)
-* Einsamkeit vs. Sozialangst
-* Attraktivität/Weiblichkeit vs. Opfer-sein
-* Eltern Liebe / Eltern Hass:
-  * Angst vor Mutter und Vater
-  * Schwierigkeiten in Beziehungen
-
-### Meditation, Achtsamkeit & Dissoziation
-
-Was schon immer etwas seltsam war, ist meine Neigung zur Depersonalisation. Ich wäre eine gute Schauspielerin geworden. Ich kann mich in jede erdenkliche Gefühlslage hineinversetzen und bin gleichzeitig dissoziiert. Oder ich wäre in einer anderen Kultur Schamanin geworden. Meine Gedanken trennen sich von meinen Gefühlen, von meinem Körper. Es ist als würde ich mir selbst beim Schauspielern zuschauen können. Aber auch wenn ich nicht schauspiele, sondern meine Gefühle eine Reaktion auf eine bestimmte Situation sind und ich "wirklich" so fühle, dann passiert es mir trotzdem. Dieses "beobachtende-ich" kann nichts anderes tun als beobachten, es gibt niemand der steuert. Während es zuguckt, fühlt es sich manchmal seltsam an. Das "beobachtende-ich" ist verwundert oder interessiert und gleichzeitig ist das "erlebende-ich" zutiefst ergriffen von den aktuellen Gefühlen. Einige dieser Situationen sind mir stark im Gedächtnis geblieben.
-
-* M&A hat mir sehr geholfen - Innere Ruhe, Selbstakzeptanz, Gleichmut, Vertrauen
-* Achtsame innere Haltung. Beobachten...
-
-### Weiteres
-
+* [x] Fahren mit angezogener Handbremse: Sicherheit vs. Initiative.
+* [x] Einsamkeit vs. Gemeinschaft
+* [x] Attraktivität/Weiblichkeit vs. Opfer-sein
+* [x] Eltern Liebe / Eltern Hass
+* [x] Meditation, Achtsamkeit & Dissoziation
 * Alles richtig machen und trotzdem verlieren
-* Ende von Beziehungen (lose/lose statt win/win)
+* [x] Ende von Beziehungen (lose/lose statt win/win)
 * Lügen um nicht zu verletzen
-* Ambivaleztoleranz: Warum das toll ist und ich es mir bei meinen Freunden wünsche.
-* Reaktionen aus Ohnmacht und Hilfe daraus.
+* [x] Ambivalenztoleranz: Warum das toll ist und ich es mir bei meinen Freunden wünsche.
+* [x] Reaktionen aus Ohnmacht und Hilfe daraus.
 * Eindrücke zu Methoden:
-  * Arbeit mit dem inneren Kind
+  * [x] Arbeit mit dem inneren Kind
   * Achtsamkeit und Meditation
-  * Gewaltfreie Kommunikation
-  * Innere Haltung (siehe Heilung)
+  * [x] Gewaltfreie Kommunikation
   * Transaktionsanalyse: "Werde nicht erwachsen!"
-  * Innere Haltung
-    * Fokus: MMA "killer Instinkt"
+  * [x] Innere Haltung
+    * [x] Fokus: MMA "killer Instinkt"
     * Sorge statt Wut
-    * Authentizität mit Kindern, Tieren... und Erwachsenen!
-* Zu viel Nähe: Krankenhaus (1) - Angst was falsch zu machen, Angst vor Veränderung, Angst vor VERANTWORTUNG: selbstverlust.
-* Aggressionshemmung: Krankenhaus (2) - Die Nadeln im Arm. Die Grenzüberschreitung. Lieber verrückt als wütend.
+    * [x] Authentizität mit Kindern, -Tieren- und Erwachsenen!
+* [x] Zu viel Nähe: Krankenhaus (1) - Angst was falsch zu machen, Angst vor Veränderung, Angst vor VERANTWORTUNG: selbstverlust.
+* [x] Aggressionshemmung: Krankenhaus (2) - Die Nadeln im Arm. Die Grenzüberschreitung. Lieber verrückt als wütend.
+* [x] Verzeihen
+* [x] Was ist meine Absicht wenn ich Dir erzähle von einem: Kinogang, Leckeres Essen, Verliebt sein...
+* [x] Ainara (3) mit grün eingecremten Armen...
+* [] Wunsch nach Verbindung, Ärger über Ablehnung bring mehr Distanz...
 
-### Verzeihen
+### Halten
 
-Meine Erfahrungen mit meiner Mutter. Verzeihen jetzt im alltag mit Ainara.
+Halten – das heißt
+nicht weiter – nicht näher – nicht einen Schritt
+oder heißt Schritt halten
+ein Versprechen – mein Wort
+oder Rückschau
+Halten – dich
+mich zurück – den Atem an – mich an dich
+dich fest
+aber nicht dir etwas vorenthalten
 
-### Verbindung herstellen
+Halten – dich in den Armen
+in Gedanken – im Traum – im Wachen
+dich hochhalten
+gegen das Dunkel
+des Abends – der Zeit – der Angst
+Halten – dein Haar mit zwei Fingern
+deine Schultern – dein Knie – deinen Fuß
+sonst nichts mehr halten
+keinen Trumpf – keine Reden
+keinen Stecken und keinen Stab
 
-Ziel: Absicht und Ergebnis. Erleben/Erfahrung und Resultat.
-
-* "Schau mal, Juan, ich bin immer mehr der Mensch der ich sein will und bin so glücklich und stolz darüber"
-  * Lächeln, Kopf tätscheln, "Ich freu' mich mit Dir. Ich bin stolz auf Dich"
-* Was ist meine Absicht wenn ich Dir erzähle von einem: Kinogang, Leckeres Essen, Verliebt sein...
-* Ainara (3) mit grün eingecremten Armen...
-
-Wunsch nach Verbindung, Ärger über Ablehnung bring mehr Distanz...
+Erich Fried, 1979
 
 ## Show don't tell
 
