@@ -55,3 +55,14 @@ Mayra Delgado Martín, 48 Jahre alt, ist Mutter einer Tochter. Nach Physikstudiu
 Sie Schreibt aus dem Versuch heraus, persönliche Erfahrungen und Erkenntnisse in eine allgemeinere Form zu überführen und somit für andere zugänglich zu machen. In ihren Texten verbindet sie autobiografische Erfahrungen mit essayistischen Reflexionen über Verantwortung, Ambivalenz, innere Haltung und Authentizität.
 
 "Ein Boden für Deine Seele" ist ihr erstes Buchprojekt. Ein Bilderbuch zum Thema Selbstakzeptanz mit eigenen Illustrationen ist in Planung.
+
+## Kontakt
+
+* **Adresse:**  
+  Mayra Delgado Martín
+  Henriettenweg 3
+  72072 Tübingen
+* **Telefon:** +49 179 688 66 90 / +49 7071 566 90 80
+* **Email:** <info@selbstraum.de>
+
+##
