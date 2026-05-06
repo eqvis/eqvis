@@ -17,14 +17,13 @@ Eine Sammlung persönlicher Essays und Reflexionen in Form von Briefen an die To
 
 Die Sammlung bietet einen intimen Einblick in das Durchbrechen negativer familiärer Muster unter Anerkennung der Komplexität von Eltern-Kind-Beziehungen.
 
-Gesamt (Kapitel 01–99): 38.279 Wörter / ca. 135 Seiten
+Gesamt (Kapitel 01–99): 47005 Wörter / ca. 165 Seiten
 
 ## Kapitelzusammenfassungen
 
-
 ### Vorwort — 00_Vorwort.md
 
-**Umfang:** 290 Wörter / 1 Seiten
+**Umfang:** 289 Wörter / 1 Seiten
 **Zitat:** "Wenn wir unsere Geschichten teilen, erkennen wir, dass wir nicht allein sind. Und genau das ist heilsam."
 
 **Kapitelüberschriften:**
@@ -38,7 +37,7 @@ Die Autorin reflektiert über die Beobachtung ihrer Mutter, dass ihre Tochter ä
 
 ### An Merle — 05_An_Merle.md
 
-**Umfang:** 5623 Wörter / 19 Seiten
+**Umfang:** 5639 Wörter / 19 Seiten
 **Zitat:** "Manchmal kann ich Dich ganz schön nerven, stimmt's?"
 
 **Kapitelüberschriften:**
@@ -68,7 +67,7 @@ Erforscht Paradoxien in Eltern-Kind-Beziehungen durch verschiedene Geschichten, 
 
 ### Meine Stimme — 07_Meine_Stimme.md
 
-**Umfang:** 2355 Wörter / 8 Seiten
+**Umfang:** 3011 Wörter / 11 Seiten
 **Zitat:** "Mich zu zeigen, heißt auch Position zu beziehen. Ich mache mich sichtbar und damit verbundbar"
 
 **Kapitelüberschriften:**
@@ -87,7 +86,7 @@ Analysiert die Angst vorm anders sein. Prokrastination als Reaktion auf Trauma u
 
 ### Deine Oma, meine Mutter — 10_fuer_Mutter.md
 
-**Umfang:** 4711 Wörter / 16 Seiten
+**Umfang:** 4705 Wörter / 16 Seiten
 **Zitat:** "Ich weiß, dass sie es nicht absichtlich gemacht hat. Aber jetzt bin ich sauer, weil es so weh tut. Aber sie soll noch nicht gehen, später bin ich dann nicht mehr sauer auf sie, das will ich ihr noch sagen"
 
 **Kapitelüberschriften:**
@@ -104,7 +103,7 @@ Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer M
 
 ### Die Farbe der Depression — 13_Dunkelheit_hmm.md
 
-**Umfang:** 2973 Wörter / 10 Seiten
+**Umfang:** 2948 Wörter / 10 Seiten
 **Zitat:** --- Zitat fehlt ---
 
 **Kapitelüberschriften:**
@@ -130,7 +129,7 @@ Tiefgehende Erforschung der komplexen Beziehung zwischen der Autorin und ihrer M
 
 ### Einsamkeit — 16_Alleine_hmm.md
 
-**Umfang:** 2147 Wörter / 8 Seiten
+**Umfang:** 2143 Wörter / 8 Seiten
 **Zitat:** "Sie schaut mich nicht an, wenn ich mit ihr rede. Vielleicht mag sie mich nicht. Sie redet auch kaum mit mir."
 
 **Kapitelüberschriften:**
@@ -170,7 +169,7 @@ Untersucht Gefühle der Unzulänglichkeit und deren Ursprünge in Kindheitsbotsc
 
 ### Das Bild am Kühlschrank — 22_Dicksein.md
 
-**Umfang:** 1581 Wörter / 6 Seiten
+**Umfang:** 1584 Wörter / 6 Seiten
 **Zitat:** "Ich mag mich nicht im Badeanzug vor allen anderen Kindern zeigen"
 
 **Kapitelüberschriften:**
@@ -286,7 +285,7 @@ Details über die Herausforderungen, Kinder zur Schule zu bringen und Morgenrout
 
 ### Wut, Frust und Ohnmacht — 48_Wut_und_Frust.md
 
-**Umfang:** 3608 Wörter / 13 Seiten
+**Umfang:** 3704 Wörter / 13 Seiten
 **Zitat:** "Aber ich bin nicht wütend auf das Kissen!"
 
 **Kapitelüberschriften:**
@@ -333,7 +332,7 @@ Reflektiert über Scham, öffentliches Verhalten und die Herausforderung, die Un
 
 ### Mein Darshan bei Amma: Selbstverantwortung vs. Delegation — 87_Amma.md
 
-**Umfang:** 3556 Wörter / 12 Seiten
+**Umfang:** 3557 Wörter / 12 Seiten
 **Zitat:** "Ich glaube nicht an Gott, aber weisst Du, Mama, der Gedanke an einen Himmel wo wir uns nach dem Tod wieder sehen, ist sehr schön."
 
 **Kapitelüberschriften:**
@@ -382,7 +381,7 @@ Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit de
 
 ### Verzeihen — 99_Verzeihen.md
 
-**Umfang:** 3220 Wörter / 11 Seiten
+**Umfang:** 3354 Wörter / 12 Seiten
 **Zitat:** "Früher bist Du nach einem Streit zu mir gekommen und hast Dich zu erst entschuldigt. Aber jetzt machst Du es immer weniger. Immer muss ich mich zuerst entschuldigen!"
 
 **Kapitelüberschriften:**
@@ -394,6 +393,7 @@ Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit de
 * Nicht jeder zeigt Reue auf die gleiche Weise
 * Schritte zum Verzeihen ~ Trauerprozess
 * Innere Haltung
+* Wie fühlt sich verzeihen eigentlich an?
 * Wünsche aus der Kindheit aufgeben
 * Die Kunst der Enttäuschung
 * Mein Wunsch

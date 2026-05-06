@@ -10,11 +10,13 @@
 * Damit es leichter wird.
 * Als ich meine Stimme wiederfand.
 
+**Umfang:** Das Manuskript ist zu etwa 90 % abgeschlossen und umfasst derzeit rund 160 Seiten. Die Fertigstellung ist für Juni geplant.
+
 **Genre:** Literarisches Memoir / essayistische Gegenwartsprosa
 
-**Umfang:** ca. 140 Seiten (Manuskript zu etwa 80 % abgeschlossen)
+**Programmbereich bei Patmos:**  Psychologie & Lebensgestaltung / Memoir
 
-**Stand:** Das Manuskript ist zu etwa 80 % abgeschlossen und umfasst derzeit rund 140 Seiten. Die Fertigstellung ist für Juni geplant.
+**Wodurch unterscheidet sich Ihr Buch von den drei wichtigsten anderen Büchern zum Thema?** In vielen Büchern zu verwandten Themen bleibt die persönliche Verletzlichkeit der Autorinnen und Autoren eher angedeutet. Mein Buch unterscheidet sich vor allem dadurch, dass ich meine eigenen Erfahrungen offenlege und Ambivalenzen sichtbar mache – ohne fertige Antworten oder Ratschläge. Die emotionale Nähe entsteht durch Ehrlichkeit, nicht durch Dramatisierung. Während Werke wie *The Gifts of Imperfection* von Brené Brown ähnliche Themen wie Selbstakzeptanz und emotionale Prägung behandeln, verfolgen sie einen stärker ratgeberorientierten Ansatz. Im Unterschied dazu entwickelt dieses Projekt seine Fragestellungen aus einer literarischen Bewegung heraus und verzichtet auf normative Lösungen. In seiner dialogischen und introspektiven Anlage weist das Projekt Parallelen zu *Jeden Tag ein bisschen näher* von Irvin D. Yalom auf, geht jedoch über die therapeutische Perspektive hinaus und verschiebt den Fokus auf eine literarische Auseinandersetzung mit innerer Haltung und Ambivalenz. In seiner erzählerischen Rahmung zeigt es zudem Nähe zu *Das Orangenmädchen* von Jostein Gaarder, setzt jedoch einen anderen Schwerpunkt: Während dort eine versöhnliche Perspektive im Vordergrund steht, richtet dieses Projekt den Blick stärker auf die Auseinandersetzung und Integration als Teil persönlicher Entwicklung.
 
 ## Pitch
 
@@ -58,11 +60,9 @@ Sie Schreibt aus dem Versuch heraus, persönliche Erfahrungen und Erkenntnisse i
 
 ## Kontakt
 
-* **Adresse:**  
-  Mayra Delgado Martín
-  Henriettenweg 3
-  72072 Tübingen
 * **Telefon:** +49 179 688 66 90 / +49 7071 566 90 80
 * **Email:** <info@selbstraum.de>
-
-##
+* **Adresse:**  
+  Mayra Delgado Martín  
+  Henriettenweg 3  
+  72072 Tübingen  

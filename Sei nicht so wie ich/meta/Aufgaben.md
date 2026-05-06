@@ -111,9 +111,24 @@ April 2026 (Jetzt):
   → Beta-Reader finden
 
 Mai 2026:
-  → Agenten anschreiben (mit Expose)
-  → Beta-Reader Feedback einholen
-  → Selbst-Lektorat
+
+* Agenten anschreiben (mit Expose)
+  * Connact (4.5.2026)
+  * Aenne Glienke (4.5.2026)
+  * Conny Heindl (4.5.2026)
+* Verlage anschreiben (mit Exposé)
+  * Edition Nautilus (5.5.2026)
+  * Patmos (5.5.2026)  
+* Beta-Reader Feedback einholen  
+  `python ..\scripts\build_pdf.py 00_Vorwort.md 05_An_Merle.md 07_Meine_Stimme.md 10_fuer_Mutter.md 13_Dunkelheit_hmm.md 16_Alleine_hmm.md --remove -o Ein_Boden_fuer_Deine_Seele_00-16`
+  * Insa (Mutter, ~45)
+  * Bernie (Vater, ~45)
+  * Johanna (Mutter, ~35)
+  * Lisa (ohne Kinder, ~60)
+  * Anja ?
+  * Dr. Schlotter ?
+  * Viola ?
+* Selbst-Lektorat
 
 Juni 2026:
   → Professionelles Lektorat buchen
