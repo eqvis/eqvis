@@ -2,21 +2,18 @@
 
 ## Projekt Beschreibung
 
-**Titel: Ein Boden für Deine Seele - Briefe an meine Tochter**
+**Titel: Einen Boden für Deine Seele - Briefe an meine Tochter**
 
 **Alternativtitel:**
 
 * Sei nicht so wie ich.
 * Damit es leichter wird.
 * Als ich meine Stimme wiederfand.
+* Meine Erfahrung. Meine Wahrheit.
 
-**Umfang:** Das Manuskript ist zu etwa 90 % abgeschlossen und umfasst derzeit rund 160 Seiten. Die Fertigstellung ist für Juni geplant.
+**Umfang:** Das Manuskript ist zu etwa 80 % abgeschlossen und umfasst derzeit rund 160 Seiten. Die Fertigstellung ist für Juni geplant.
 
 **Genre:** Literarisches Memoir / essayistische Gegenwartsprosa
-
-**Programmbereich bei Patmos:**  Psychologie & Lebensgestaltung / Memoir
-
-**Wodurch unterscheidet sich Ihr Buch von den drei wichtigsten anderen Büchern zum Thema?** In vielen Büchern zu verwandten Themen bleibt die persönliche Verletzlichkeit der Autorinnen und Autoren eher angedeutet. Mein Buch unterscheidet sich vor allem dadurch, dass ich meine eigenen Erfahrungen offenlege und Ambivalenzen sichtbar mache – ohne fertige Antworten oder Ratschläge. Die emotionale Nähe entsteht durch Ehrlichkeit, nicht durch Dramatisierung. Während Werke wie *The Gifts of Imperfection* von Brené Brown ähnliche Themen wie Selbstakzeptanz und emotionale Prägung behandeln, verfolgen sie einen stärker ratgeberorientierten Ansatz. Im Unterschied dazu entwickelt dieses Projekt seine Fragestellungen aus einer literarischen Bewegung heraus und verzichtet auf normative Lösungen. In seiner dialogischen und introspektiven Anlage weist das Projekt Parallelen zu *Jeden Tag ein bisschen näher* von Irvin D. Yalom auf, geht jedoch über die therapeutische Perspektive hinaus und verschiebt den Fokus auf eine literarische Auseinandersetzung mit innerer Haltung und Ambivalenz. In seiner erzählerischen Rahmung zeigt es zudem Nähe zu *Das Orangenmädchen* von Jostein Gaarder, setzt jedoch einen anderen Schwerpunkt: Während dort eine versöhnliche Perspektive im Vordergrund steht, richtet dieses Projekt den Blick stärker auf die Auseinandersetzung und Integration als Teil persönlicher Entwicklung.
 
 ## Pitch
 
@@ -56,7 +53,7 @@ Es steht in der Tradition essayistischer und autobiografisch geprägter Literatu
 Mayra Delgado Martín, 48 Jahre alt, ist Mutter einer Tochter. Nach Physikstudium in Granada (Spanien) und München arbeitet sie im IT-Bereich und beschäftigt sich seit vielen Jahren intensiv mit Selbsterforschung und Selbstentwicklung.
 Sie Schreibt aus dem Versuch heraus, persönliche Erfahrungen und Erkenntnisse in eine allgemeinere Form zu überführen und somit für andere zugänglich zu machen. In ihren Texten verbindet sie autobiografische Erfahrungen mit essayistischen Reflexionen über Verantwortung, Ambivalenz, innere Haltung und Authentizität.
 
-"Ein Boden für Deine Seele" ist ihr erstes Buchprojekt. Ein Bilderbuch zum Thema Selbstakzeptanz mit eigenen Illustrationen ist in Planung.
+"Einen Boden für Deine Seele" ist ihr erstes Buchprojekt. Ein Bilderbuch zum Thema Selbstakzeptanz mit eigenen Illustrationen ist in Planung.
 
 ## Kontakt
 

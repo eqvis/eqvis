@@ -46,20 +46,23 @@ PHASE 2: SELBST-LEKTORAT (2-3 Wochen)
 PHASE 3: EXTERNE FEEDBACKS (4-6 Wochen parallel)
 
 * [] Beta-Reader (2-3 Personen)
-  * 1 Therapeutin
-  * 1 Mutter mit Kind
+  * 1 Therapeutin (Anja, Viola, Dr. Schlotter)
+  * 1 Mutter mit Kind (Johanna, Bernie)
   * 1 Junge Frau in Selbstfindung
+  * 1 Ältere Frau in Selbstfindung (Lisa)
 * [] Feedback-Kriterien
-  * Passt die Länge?
-  * Befriedigendes Ende?
-  * Was fehlt?
-  * Was ist zu lang, langweilig oder verwirrend?
-  * Welche Kapitel sind zu kurz?
-  * Koherenz (in sich stimmig)
-  * Kann man sich in die ICH-Erzählerin hineinversetzen? Ist diese angenehm?
-  * Over-sharing / Zu-Intim
-  * Zu viel Ratgeber?
-* KI: "Troll" Angrifspunkte (ich)
+  * Pro Kapitel
+    * Was ist zu lang zu kurz, langweilig oder verwirrend?
+    * Kohärenz: ist es in sich stimmig?
+  * Für das ganze Buch
+    * Was fehlt?
+    * Was ist zu viel?
+    * Passt die Länge?
+    * Kohärenz: ist es in sich stimmig?
+    * Hat es ein befriedigendes Ende?
+    * Kann man sich in die Ich-Erzählerin hineinversetzen? Ist diese angenehm?
+    * Was hat Dir am besten gefallen?
+* KI: "Troll" Angriffspunkte (ich)
 * KI: "Wenn Du meine Mutter wärst, was würde Dich verletzen?"
 * Leserunde im Internet?
 * Resension schreiben lassen (evtl. Buch geschenkt)

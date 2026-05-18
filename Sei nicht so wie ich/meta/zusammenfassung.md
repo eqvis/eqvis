@@ -1,4 +1,4 @@
-# Buchzusammenfassung: "Sei nicht so wie ich"
+# Buchzusammenfassung: "Einen Boden für Deine Seele"
 
 Eine Sammlung persönlicher Essays und Reflexionen in Form von Briefen an die Tochter der Autorin, Merle, die Themen wie Mutterschaft, Kindheitstraumata und generationsübergreifende Beziehungen erkundet.
 
@@ -17,7 +17,7 @@ Eine Sammlung persönlicher Essays und Reflexionen in Form von Briefen an die To
 
 Die Sammlung bietet einen intimen Einblick in das Durchbrechen negativer familiärer Muster unter Anerkennung der Komplexität von Eltern-Kind-Beziehungen.
 
-Gesamt (Kapitel 01–99): 47005 Wörter / ca. 165 Seiten
+Gesamt (Kapitel 01–99): 48806 Wörter / ca. 171 Seiten
 
 ## Kapitelzusammenfassungen
 
@@ -222,12 +222,20 @@ Konzentriert sich auf die Beziehung zu ihrem Vater und Gefühle der Unsichtbarke
 
 ### Krankenhaus 2 — 33_krankenhaus.md
 
-**Umfang:** 747 Wörter / 3 Seiten
+**Umfang:** 2298 Wörter / 8 Seiten
 **Zitat:** "Meine Tochter möchte mich nicht mehr besuchen. Sie hat Angst vor mir. Selbst ich erkenne mich so nicht."
 
 **Kapitelüberschriften:**
 
-* Keine Kompromisse um die Gesundheit
+* Erstes Gespräch - Keine Kompromisse um die Gesundheit
+* Vor der besagten Nacht
+* Der Katheter
+* Zweites Gespräch
+* Deutsche Oberärztin
+* Türkische Oberärztin
+* Ich blieb im Krankenhaus
+* Drittes Gespräch - Geständnisse
+* Neues Körpergefühl
 
 ### Wahrer Trost — 36_wahrer_trost.md
 
@@ -332,7 +340,7 @@ Reflektiert über Scham, öffentliches Verhalten und die Herausforderung, die Un
 
 ### Mein Darshan bei Amma: Selbstverantwortung vs. Delegation — 87_Amma.md
 
-**Umfang:** 3557 Wörter / 12 Seiten
+**Umfang:** 3757 Wörter / 13 Seiten
 **Zitat:** "Ich glaube nicht an Gott, aber weisst Du, Mama, der Gedanke an einen Himmel wo wir uns nach dem Tod wieder sehen, ist sehr schön."
 
 **Kapitelüberschriften:**
@@ -346,7 +354,7 @@ Reflektiert über Scham, öffentliches Verhalten und die Herausforderung, die Un
 * Zu vertrauen: Stockkampf mit Graziella
 * Meine persönliche Erfahrung mit Amma: Der Darshan
   * Glaube ist tröstlich
-  * Der Moment: "Meine Liebe, meine Liebe"
+  * Vertrauen geht auch ohne Gott
 * Eigenverantwortung: Menschen brauchen Menschen
 * Eindruck von Amma und Aha-Effekt
 * Eigenverantwortung
@@ -381,7 +389,7 @@ Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit de
 
 ### Verzeihen — 99_Verzeihen.md
 
-**Umfang:** 3354 Wörter / 12 Seiten
+**Umfang:** 3404 Wörter / 12 Seiten
 **Zitat:** "Früher bist Du nach einem Streit zu mir gekommen und hast Dich zu erst entschuldigt. Aber jetzt machst Du es immer weniger. Immer muss ich mich zuerst entschuldigen!"
 
 **Kapitelüberschriften:**
@@ -393,6 +401,7 @@ Reflektiert die paradoxe Sehnsucht nach Geborgenheit in Nähe, kombiniert mit de
 * Nicht jeder zeigt Reue auf die gleiche Weise
 * Schritte zum Verzeihen ~ Trauerprozess
 * Innere Haltung
+* Wie fühlt sich Groll an?
 * Wie fühlt sich verzeihen eigentlich an?
 * Wünsche aus der Kindheit aufgeben
 * Die Kunst der Enttäuschung
